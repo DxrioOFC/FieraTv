@@ -4,10 +4,10 @@
     "samples": [
       {
         "name": "EVENTOS1",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_PY.m3u8 2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e",
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "EVENTOS2",
