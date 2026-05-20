@@ -57,6 +57,13 @@
     "name": "EVENTOS DISNEY⚽️ 🏆",
     "samples": [
       {
+        "name": "EVENTO UNITEL",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8?uid=lFJOJ6HTX0lYo5mLsmcpoIRJZIR46AIL&sid=C9FrSeSJrvne9Tb0UxGnrcC",
+        "icono": "https://i.postimg.cc/MHgTvvZY/descarga-(3).jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DISNEY 1",
         "url": "https://api.videx.lol/keyvidex.php?keyvidex=videx&stream=/disney1/index.m3u8",
         "icono": "https://i.postimg.cc/Y9YSkZHs/descarga-(2).jpg",
@@ -109,13 +116,6 @@
           "Referer": "https://vytvhz1a5xq.s3.us-east-1.amazonaws.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "EVENTO UNITEL",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8?uid=lFJOJ6HTX0lYo5mLsmcpoIRJZIR46AIL&sid=C9FrSeSJrvne9Tb0UxGnrcC",
-        "icono": "https://i.postimg.cc/MHgTvvZY/descarga-(3).jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
