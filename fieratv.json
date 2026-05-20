@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "EVENTOS1",
-        "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_PY.m3u8 2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e",
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_PY.m3u8",
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
         "type": "HLS",
         "drm_license_uri": ""
