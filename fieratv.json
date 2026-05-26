@@ -295,6 +295,13 @@
     "name": "CANALES DE PARAGUAY 🇵🇾 OP 2",
     "samples": [
       {
+        "name": "TELEFUTURO",
+        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "SNT",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
@@ -326,13 +333,6 @@
         "name": "GEN TV",
         "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TELEFUTURO",
-        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
