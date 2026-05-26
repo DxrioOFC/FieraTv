@@ -120,14 +120,9 @@
       {
         "name": "FIERA TV HD",
         "url": "http://167.71.169.4/hls/fieratv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/1205/LHElz9.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "icono": "https://i.ibb.co/n8MWZC59/WA-1778635394963.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "WIZZI TV",
