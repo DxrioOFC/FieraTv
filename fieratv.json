@@ -50,6 +50,13 @@
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS OK",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
