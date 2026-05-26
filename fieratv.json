@@ -57,13 +57,6 @@
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS OK",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
