@@ -3,6 +3,13 @@
     "name": "FÚTBOL PARAGUAYO 🇵🇾",
     "samples": [
       {
+        "name": "EVENTOS OK",
+        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
@@ -49,13 +56,6 @@
         "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
         "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TIGO SPORTS M",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
-        "icono": "",
-        "type": "CLEARKEY",
         "drm_license_uri": ""
       }
     ]
