@@ -2749,39 +2749,6 @@
     ]
   },
   {
-    "name": "FÚTBOL PARAGUAYO 🇵🇾",
-    "samples": [
-      {
-        "name": "EVENTOS 1",
-        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS 2",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS 3",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS 4",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "FANATIZ SPORTS EVENTOS",
     "samples": []
   }
