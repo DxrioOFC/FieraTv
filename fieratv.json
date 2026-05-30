@@ -29,6 +29,13 @@
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS 3",
+        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -2859,14 +2866,6 @@
   },
   {
     "name": "EVENTOS 🇵🇾",
-    "samples": [
-      {
-        "name": "EVENTOS 3",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      }
-    ]
+    "samples": []
   }
 ]
