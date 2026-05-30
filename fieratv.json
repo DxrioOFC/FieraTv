@@ -3,13 +3,6 @@
     "name": "DEPORTES PREMIUM",
     "samples": [
       {
-        "name": "EVENTOS 5",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "DSPORTS -COL",
         "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
@@ -2833,6 +2826,13 @@
   {
     "name": "FÚTBOL PARAGUAYO 🇵🇾",
     "samples": [
+      {
+        "name": "EVENTOS 5",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
       {
         "name": "EVENTOS 4",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
