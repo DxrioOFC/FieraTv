@@ -156,10 +156,6 @@
   },
   {
     "name": "CANALES DE PARAGUAY 🇵🇾 FLOW",
-    "samples": []
-  },
-  {
-    "name": "CANALES DE PARAGUAY🇵🇾",
     "samples": [
       {
         "name": "TELEFUTURO",
@@ -167,7 +163,12 @@
         "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
-      },
+      }
+    ]
+  },
+  {
+    "name": "CANALES DE PARAGUAY🇵🇾",
+    "samples": [
       {
         "name": "SNT HD",
         "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMjA3MzE5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiIxN2VjMTNjYTI3NzAwNTI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijg3Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.Wvy09SQbNdZpwr39KCCDyd4COgeqYook9HCSM12ouFVM39kdybYCOY9Lr7MuuiOXM7l5m2QyOXXmcL5qiulGJA==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
