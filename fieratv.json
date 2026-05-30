@@ -1391,8 +1391,8 @@
         "name": "ESPN 1",
         "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8",
         "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "http://190.83.15.112:8000/play/a0f7/index.m3u8? hls"
       },
       {
         "name": "ESPN 2 ECUADOR",
