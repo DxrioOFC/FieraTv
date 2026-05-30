@@ -57,6 +57,13 @@
         "icono": "https://imagizer.imageshack.com/img921/9462/YON00b.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/7548/aRwutP.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
