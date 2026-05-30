@@ -1,7 +1,15 @@
 [
   {
     "name": "FIERA PRODUCCIONES",
-    "samples": []
+    "samples": [
+      {
+        "name": "FIERA TV HD",
+        "url": "http://167.71.169.4/hls/fieratv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "DEPORTES PREMIUM 🏆",
@@ -135,13 +143,6 @@
   {
     "name": "CANALES DE PARAGUAY🇵🇾",
     "samples": [
-      {
-        "name": "FIERA TV HD",
-        "url": "http://167.71.169.4/hls/fieratv.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
       {
         "name": "WIZZI TV",
         "url": "http://167.71.169.4/hls/wizzitv.m3u8",
