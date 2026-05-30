@@ -36,6 +36,13 @@
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "DSPORTS -COL",
+        "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
