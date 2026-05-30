@@ -1388,7 +1388,7 @@
     "name": "DEPORTE ECUADOR🇪🇨",
     "samples": [
       {
-        "name": "ESPN 1",
+        "name": "ESPN",
         "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8",
         "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
         "type": "HLS",
