@@ -2450,6 +2450,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "BAND",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TCL BR",
         "url": "http://79.127.238.228:14433/GLOBO",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
@@ -2472,13 +2479,6 @@
         "name": "RECORD ",
         "url": "https://canais.tvonlineaovivo.com.br/canal/tv-record/#https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1494905276.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "BAND ",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
