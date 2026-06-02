@@ -924,10 +924,10 @@
       },
       {
         "name": "FOX SPORTS 3",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODk0NTgyIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiZjY2NGEzNmY1Y2FlZWMzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.q03_KPnbxhzrko3nVYbZhyMYeZK4PZGaZFEYAklM3MzqvdxbiDxoZvifAcFrJ5k5oPkVb7ikdiY23aHJ--GAtw==/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
+        "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
-        "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
