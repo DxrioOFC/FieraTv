@@ -803,6 +803,18 @@
     "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷",
     "samples": [
       {
+        "name": "PRUEBA",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODk0NTgyIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiZjY2NGEzNmY1Y2FlZWMzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.q03_KPnbxhzrko3nVYbZhyMYeZK4PZGaZFEYAklM3MzqvdxbiDxoZvifAcFrJ5k5oPkVb7ikdiY23aHJ--GAtw==/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
+        "icono": "https://bestleague.world/img/foxnew3.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "ESPN 1",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "type": "CLEARKEY",
@@ -1031,13 +1043,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "PRUEBA",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODk0NTgyIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiZjY2NGEzNmY1Y2FlZWMzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.q03_KPnbxhzrko3nVYbZhyMYeZK4PZGaZFEYAklM3MzqvdxbiDxoZvifAcFrJ5k5oPkVb7ikdiY23aHJ--GAtw==/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
