@@ -217,13 +217,6 @@
         "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "PRUEBA",
-        "url": "https://angulismotv.pages.dev/transmision?c=DSports&o=0https://angulismotv.pages.dev/transmision?c=DSports&o=0",
-        "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
       }
     ]
   },
