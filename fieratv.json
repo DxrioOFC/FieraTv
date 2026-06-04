@@ -59,7 +59,7 @@
       {
         "name": "TRECE HD",
         "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwNjg4MzY3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4Y2I1YzdmYjRlYzBjMDk2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjkzIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.bX2yVdE1sKSYtp2aW3fXCxI8sysaG950KIgxvTDNZ0JXBQsNpP2DyFSb79B1OJ0ILBcn4tdLFnyFRDyjw9z4eQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       }
