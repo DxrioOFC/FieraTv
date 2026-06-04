@@ -138,6 +138,13 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "DIRECTV OPC 2",
+        "url": "https://cara-cdn5.netuno.cdn.moderntv.eu/netuno/stream/DSPORTS_LL/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DDSPORTS_LL_stream_wh&_cdn_session=16135476232&_cdn_token=5b0d2974aecabec2c988d955668eec117aed5e7a",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -1059,13 +1066,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "DIRECTV OPC 2",
-        "url": "https://cara-cdn5.netuno.cdn.moderntv.eu/netuno/stream/DSPORTS_LL/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DDSPORTS_LL_stream_wh&_cdn_session=16135476232&_cdn_token=5b0d2974aecabec2c988d955668eec117aed5e7a",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
