@@ -76,6 +76,13 @@
         "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "WIN SPORTS",
+        "url": "http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/369?token=SBpYUhVRG1sSVwIGCQBTA1YBWgBXU1UDVFZQUgsAAQgEWwNWUVsAUAEWSEZCQBAHA15mDFVGDARXW0hHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFVTXVIAAwMdEUhZV0QDVxRcWEhGVEwWBxBdWAluAFNBCAEBRwlaRl1fFBJcCGZdBF1VCgATDkBTQB8bDEIUFA0PFwgJHxZRWEdKUUcDGwMPRVgISBNXDRcMR0scE14UZzhASEdWTEdUXUtZXAgbA0NER0ZIE10RPRBWShFDAVdaBBBGXxEFER0RVVFLOVpWD15RBxBYWwwRQAkbVRNIFFoODA0RXEZsQVpcEgkITFUNTQ==",
+        "icono": "https://imagizer.imageshack.com/img922/9331/QMQtp0.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
