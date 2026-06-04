@@ -69,6 +69,13 @@
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+      {
+        "name": "WIN SPORTS +",
+        "url": "http://190.60.37.118:4000/play/a0bw",
+        "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
