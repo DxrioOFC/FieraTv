@@ -3,6 +3,13 @@
     "name": "EVENTOS PY HD",
     "samples": [
       {
+        "name": "EVENTOS HD",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/locotigo/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PAR 🇵🇾 VS 🇳🇮  ⚽ 🏃",
         "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/3888/UpCViD.jpg",
@@ -40,13 +47,6 @@
       {
         "name": "EVENTOS 5",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS HD",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/locotigo/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
