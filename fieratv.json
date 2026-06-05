@@ -5,7 +5,7 @@
       {
         "name": "EVENTOS OK",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/locotigo/playlist.m3u8",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
