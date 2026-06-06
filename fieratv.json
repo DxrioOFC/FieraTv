@@ -10,13 +10,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "PAR 🇵🇾 VS 🇳🇮  ⚽ 🏃",
-        "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/3888/UpCViD.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS 1",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
