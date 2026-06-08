@@ -115,7 +115,7 @@
         "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTEwNjI3Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9HRU5fX0NBTTEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjUwMWY5OGZlNzA1OTkzODMiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MDkzNzgzMi01MTciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.5vcGS61t6j0Ri10Fj7qZxiJWofdtnixbiPzDwEGMPQjX6B2sL78QFWJZTPbXr9gJmxMOeFVFVtNUf6OGhF5hew==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
