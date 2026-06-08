@@ -329,11 +329,11 @@
         }
       },
       {
-        "name": "HEI NEW",
+        "name": "HEI NOW",
         "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwODA1NjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJjYTFkYzZmMDY2MzNlNjk3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjU5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.UqJPFWDt-RYbWDQnsA-CMVF7QsPEfwu1nRQs_qyNwbqsa197gFnUuzOKeVab2cYZNgYCZ43pvQ44agL9p12kJw==/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
