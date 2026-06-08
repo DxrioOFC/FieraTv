@@ -125,7 +125,7 @@
       {
         "name": "FLOW MULTICAM",
         "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTExMzA5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9HRU5fTXVsdGljYW0vU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY2N2Y4OTJjMDczYzhlY2UiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MDkzODUwOS05OTMiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.S-x8hQ2HaZlk4t8Yfy25Ije_N7uBPgQioQbx-wmJ3eFPrEzzuhMrfh_oC2CWJfpCNTvqKeRfIoPeUUJbqo3FbQ==/live/c7eds/GEN_Multicam/SA_Live_dash_enc/GEN_Multicam.mpd",
-        "icono": "",
+        "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
         "type": "CLEARKEY",
         "drm_license_uri": "181.12.36.153:443",
         "headers": {
