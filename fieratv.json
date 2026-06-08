@@ -50,18 +50,6 @@
     "name": "MUNDIAL  2026 🏆 ⚽ 🏃‍♂️",
     "samples": [
       {
-        "name": "FLOW CAM",
-        "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTMwNzA5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9HRU5fX0NBTTEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA0MTUzZTI4ZmJjODM5NWEiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MDk1NzkwNi0xOTEiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.tBeY6m9JVkd2yfq7ms_NOVXsgPhY25K8sW8l_0sBw5YS3D_3FlV4p0kaajB83adtEf_P6_dKOByuR_mt4RIsRA==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1-mp4a_145200_spa=20000-scale=48000-p=360432255988066-17322625502819.mp4",
-        "icono": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/122020/flow.png?B7tUxBJjz3tVRF6b9ZQRhRTxVlUhAqHq&itok=D-fjdve1",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py/",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
-        }
-      },
-      {
         "name": "UNICANAL",
         "url": "https://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTA5NTE3Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9VTklDQU5BTF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjQ2ODY2NWY5ZWQ5MGY2MCIsInNlc3Npb25faWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YS0xNzgwOTM2NzE3LTczOSIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.YNvrBFmYL0dAnSVIhTcJwS_ER9LvOpUL1NBNKb5fXRqpvKmYtH6VxnoouVnH-LfDBdvJJSOqK9AYtbJ_c26h6w==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
@@ -109,6 +97,18 @@
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FLOW CAM",
+        "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTMwNzA5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9HRU5fX0NBTTEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA0MTUzZTI4ZmJjODM5NWEiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MDk1NzkwNi0xOTEiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.tBeY6m9JVkd2yfq7ms_NOVXsgPhY25K8sW8l_0sBw5YS3D_3FlV4p0kaajB83adtEf_P6_dKOByuR_mt4RIsRA==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1-mp4a_145200_spa=20000-scale=48000-p=360432255988066-17322625502819.mp4",
+        "icono": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/122020/flow.png?B7tUxBJjz3tVRF6b9ZQRhRTxVlUhAqHq&itok=D-fjdve1",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
       }
     ]
   },
