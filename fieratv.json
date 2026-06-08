@@ -85,13 +85,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "DIRECTV OPC 2",
-        "url": "https://cara-cdn5.netuno.cdn.moderntv.eu/netuno/stream/DSPORTS_LL/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DDSPORTS_LL_stream_wh&_cdn_session=16135476232&_cdn_token=5b0d2974aecabec2c988d955668eec117aed5e7a",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "POPU TV HD",
         "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
