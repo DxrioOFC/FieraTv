@@ -99,15 +99,15 @@
         "drm_license_uri": ""
       },
       {
-        "name": "FLOW PLAYER CAM",
+        "name": "FLOW CAM 1",
         "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTEwNDI1Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9HRU5fX0NBTTEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE0NTlkMTU2ZjRhMTFjNTciLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MDkzNzYzMC00NzIiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.cIqSOBJsIHWwoD-wUNGAm8a3oxET3ao0NGjvzc1GqOszM19ckaM5mHxBOFzQjbEIw3URIvM2C7j-XmOJcyzNWg==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
         "type": "CLEARKEY",
-        "drm_license_uri": "",
+        "drm_license_uri": "181.12.36.153:443",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
