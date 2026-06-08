@@ -71,6 +71,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "POPU TV HD",
+        "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
+        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "WIN SPORTS +",
         "url": "http://190.60.37.118:4000/play/a0bw",
         "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
@@ -88,13 +95,6 @@
         "name": "DSPORTS",
         "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "POPU TV HD",
-        "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
-        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
