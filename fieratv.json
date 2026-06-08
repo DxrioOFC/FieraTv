@@ -71,6 +71,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
+        "name": "DSPORTS",
+        "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "WIN SPORTS +",
         "url": "http://190.60.37.118:4000/play/a0bw",
         "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
@@ -182,13 +189,6 @@
         "name": "ESPN PREMIUM",
         "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "DSPORTS",
-        "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
