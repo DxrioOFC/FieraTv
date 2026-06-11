@@ -62,6 +62,18 @@
         }
       },
       {
+        "name": "CAM JUGADOR",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "icono": "https://imagizer.imageshack.com/img924/4826/LDNEPm.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=789387a3f449419d9b6e2f6c910e0861&key=a78b627380a43ef610485082ee91277a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "TRECE HD",
         "url": "https://edge-live15-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg3NDc2Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9SUENfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI4NDc5ODU5NGYyZTQ3ZjQiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MTIxNDY3Ni0xMzkiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMDgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.sYolAkH2Lg67-DaKVdNsYiKDocOD8sziwreUJzEzYoQPnNQ8OjJPbFc_VD_g7WGwK92nazgDweGT-MW_nC2PGQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
@@ -119,18 +131,6 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.py/",
           "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FLOW CAM",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
-        "icono": "https://imagizer.imageshack.com/img924/4826/LDNEPm.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=789387a3f449419d9b6e2f6c910e0861&key=a78b627380a43ef610485082ee91277a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
       },
