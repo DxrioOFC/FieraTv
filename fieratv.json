@@ -50,18 +50,6 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "UNICANAL SD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=VH37tRT6WCQLotYm_Q541yldos849m7zfATUiPdwh-lZYukzlqmVftFelDNw406oBCVbyog7hcpftjNww499JBZIr4V1SWAJjnQWauJnEJgFOpNb7Ds4EakPj0Zjytfc&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://geo.dailymotion.com/",
-          "Referer": "https://geo.dailymotion.com/",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
-        }
-      },
-      {
         "name": "TRECE HD",
         "url": "https://edge-live15-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg3NDc2Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9SUENfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI4NDc5ODU5NGYyZTQ3ZjQiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MTIxNDY3Ni0xMzkiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMDgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.sYolAkH2Lg67-DaKVdNsYiKDocOD8sziwreUJzEzYoQPnNQ8OjJPbFc_VD_g7WGwK92nazgDweGT-MW_nC2PGQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
@@ -74,6 +62,18 @@
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+      {
+        "name": "UNICANAL SD",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=VH37tRT6WCQLotYm_Q541yldos849m7zfATUiPdwh-lZYukzlqmVftFelDNw406oBCVbyog7hcpftjNww499JBZIr4V1SWAJjnQWauJnEJgFOpNb7Ds4EakPj0Zjytfc&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://geo.dailymotion.com/",
+          "Referer": "https://geo.dailymotion.com/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+        }
       },
       {
         "name": "MULTI CAM",
