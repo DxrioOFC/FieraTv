@@ -50,18 +50,6 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "VERSUS TV",
-        "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg3NjgxIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FdmVudG9zX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1YzExYzgwYTgxNGI0MWE1Iiwic2Vzc2lvbl9pZCI6IjFiZjU4YWM1ZDU1NDkzNDE1MjFmMjhiMTFkODAwMzZhLTE3ODEyMTQ4ODEtNDMzIiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjFiZjU4YWM1ZDU1NDkzNDE1MjFmMjhiMTFkODAwMzZhIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.APO3BMfUZn99_KcAqUqi-pobkeHxYJWvmGhf6M0A3jRgPBUX8DXz1yMA5-W146BaI72v05hihIxaICml4lTR5g==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
-        }
-      },
-      {
         "name": "TRECE HD",
         "url": "https://edge-live15-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg3NDc2Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9SUENfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI4NDc5ODU5NGYyZTQ3ZjQiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MTIxNDY3Ni0xMzkiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMDgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.sYolAkH2Lg67-DaKVdNsYiKDocOD8sziwreUJzEzYoQPnNQ8OjJPbFc_VD_g7WGwK92nazgDweGT-MW_nC2PGQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
@@ -156,6 +144,18 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "VERSUS TV",
+        "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg3NjgxIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FdmVudG9zX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1YzExYzgwYTgxNGI0MWE1Iiwic2Vzc2lvbl9pZCI6IjFiZjU4YWM1ZDU1NDkzNDE1MjFmMjhiMTFkODAwMzZhLTE3ODEyMTQ4ODEtNDMzIiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjFiZjU4YWM1ZDU1NDkzNDE1MjFmMjhiMTFkODAwMzZhIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.APO3BMfUZn99_KcAqUqi-pobkeHxYJWvmGhf6M0A3jRgPBUX8DXz1yMA5-W146BaI72v05hihIxaICml4lTR5g==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=f0d61c011c3343c630d66a55681ec0e9&key=f6fb66ae915cd5043864d821eacbae03",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
         }
       }
     ]
