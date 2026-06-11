@@ -51,7 +51,7 @@
     "samples": [
       {
         "name": "UNICANAL SD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(A0pB3YVMmgYwbQ9TyQfHC41oKhibMJBGHe6f-K5EcncjaNFyi_RkNRY0L-TvB0GO6sqXEoRPprqTM8YxS3JTkhVTJBuq_UU8L3HaVADeIb5ePktzxHjIrmpdCoJn-QPG)/cloud/3/x9ko9z8/s/live-240.m3u8",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=VH37tRT6WCQLotYm_Q541yldos849m7zfATUiPdwh-lZYukzlqmVftFelDNw406oBCVbyog7hcpftjNww499JBZIr4V1SWAJjnQWauJnEJgFOpNb7Ds4EakPj0Zjytfc&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "HLS",
         "drm_license_uri": "",
