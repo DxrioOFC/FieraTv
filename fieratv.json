@@ -125,7 +125,7 @@
       {
         "name": "FLOW CAM",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img924/4826/LDNEPm.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=789387a3f449419d9b6e2f6c910e0861&key=a78b627380a43ef610485082ee91277a",
         "headers": {
