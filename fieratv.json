@@ -69,6 +69,18 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
+        "name": "UNICANAL 720",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8axwRnI9EYP5CetbgJK8CTjQokb0vjr1zGuIrdkPoxnjso3LpQBIGPrCxkKzLLaiBSm9gaZT4qydB5wS9nSQsVdM8Mscu4WVa-ZqcWg1WglukEHLNAEAyUmyRDG39dVq)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://geo.dailymotion.com/",
+          "Referer": "https://geo.dailymotion.com/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
         "name": "UNICANAL HD",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg5NTI5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9VTklDQU5BTF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU0ZmJjZTg4ZTZkMDY0NyIsInNlc3Npb25faWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YS0xNzgxMjE2NzI5LTY5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.oF6K4B_WNtROCm7iQkJEkBlJ1ZYiqWvOySQEI7qIU9V5QRBqRqyut7YzmHgIgS2eYUH-VJoBxyLXfev7RzF-UA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
@@ -188,18 +200,6 @@
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "UNICANAL 1",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8axwRnI9EYP5CetbgJK8CTjQokb0vjr1zGuIrdkPoxnjso3LpQBIGPrCxkKzLLaiBSm9gaZT4qydB5wS9nSQsVdM8Mscu4WVa-ZqcWg1WglukEHLNAEAyUmyRDG39dVq)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://geo.dailymotion.com/",
-          "Referer": "https://geo.dailymotion.com/",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
-        }
       }
     ]
   },
