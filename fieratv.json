@@ -50,6 +50,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "UNICANAL HD",
+        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg5NTI5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9VTklDQU5BTF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU0ZmJjZTg4ZTZkMDY0NyIsInNlc3Npb25faWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YS0xNzgxMjE2NzI5LTY5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.oF6K4B_WNtROCm7iQkJEkBlJ1ZYiqWvOySQEI7qIU9V5QRBqRqyut7YzmHgIgS2eYUH-VJoBxyLXfev7RzF-UA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+      {
         "name": "MULTI CAM",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "icono": "https://imagizer.imageshack.com/img924/4826/LDNEPm.jpg",
@@ -103,13 +110,6 @@
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
-      },
-      {
-        "name": "UNICANAL HD",
-        "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzg3NTc5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9VTklDQU5BTF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNmM4N2MyMzZkOWQxZDg0NiIsInNlc3Npb25faWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YS0xNzgxMjE0Nzc5LTk5OSIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYmY1OGFjNWQ1NTQ5MzQxNTIxZjI4YjExZDgwMDM2YSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM0MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NB05V-g4l16xipYGY-AqtXUAwbmv92wohMLGEUmtc_fVlzyHzOaYfQ1uwEVv3NMuOB2HcQQ-bxM4iRz4LFPF5Q==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4-mp4a_145200_spa=2-scale=48000-p=359998000588733-17334929981283.mp4",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "GEN",
