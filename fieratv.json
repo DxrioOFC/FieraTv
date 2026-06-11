@@ -53,18 +53,6 @@
         "name": "UNICANAL SD",
         "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=VH37tRT6WCQLotYm_Q541yldos849m7zfATUiPdwh-lZYukzlqmVftFelDNw406oBCVbyog7hcpftjNww499JBZIr4V1SWAJjnQWauJnEJgFOpNb7Ds4EakPj0Zjytfc&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://geo.dailymotion.com/",
-          "Referer": "https://geo.dailymotion.com/",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
-        }
-      },
-      {
-        "name": "UNICANAL SD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=VH37tRT6WCQLotYm_Q541yldos849m7zfATUiPdwh-lZYukzlqmVftFelDNw406oBCVbyog7hcpftjNww499JBZIr4V1SWAJjnQWauJnEJgFOpNb7Ds4EakPj0Zjytfc&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "",
         "headers": {
@@ -210,6 +198,18 @@
         "headers": {
           "Origin": "https://geo.dailymotion.com",
           "Referer": "https://geo.dailymotion.com",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "name": "UNICANAL SD",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=VH37tRT6WCQLotYm_Q541yldos849m7zfATUiPdwh-lZYukzlqmVftFelDNw406oBCVbyog7hcpftjNww499JBZIr4V1SWAJjnQWauJnEJgFOpNb7Ds4EakPj0Zjytfc&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://geo.dailymotion.com/",
+          "Referer": "https://geo.dailymotion.com/",
           "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
         }
       }
