@@ -113,7 +113,7 @@
       {
         "name": "DT CAM",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img924/4826/LDNEPm.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=97a46697db7524c76d47de9bed5b7f8a&key=8a0a08da423fca679702b4632a90f333",
         "headers": {
