@@ -519,6 +519,13 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "ABC HD",
+        "url": "https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.mpd",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
