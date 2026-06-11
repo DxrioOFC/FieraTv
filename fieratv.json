@@ -57,6 +57,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
+        "name": "GEN HD",
+        "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN HD 720",
         "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w770716280.m3u8?k=43b22adb334d8b2c634c05ff5de0396c00a64edf80ebbe4fdfefbf6c294af787&exp=1781219721",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -98,13 +105,6 @@
           "Referer": "https://geo.dailymotion.com",
           "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
         }
-      },
-      {
-        "name": "GEN",
-        "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "CAM JUGADOR",
