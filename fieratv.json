@@ -137,7 +137,7 @@
       {
         "name": "MULTI CAM",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_Multicam/SA_Live_dash_enc/GEN_Multicam.mpd",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img924/4826/LDNEPm.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=f0d61c011c3343c630d66a55681ec0e9&key=f6fb66ae915cd5043864d821eacbae03",
         "headers": {
