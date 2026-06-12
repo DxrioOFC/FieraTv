@@ -133,13 +133,6 @@
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "GEN 1",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMzkzNTEwIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9HRU5fVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI3NGU5YzBiYzA4YmU3YWMiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MTIyMDcwOS0yNTAiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EBbMXpK-Vb00HzVMaOE2SUMnNVW-Jin_1wmbbVdpCA-HjxPHkEtIzMRiYzkeaAfToBW07KQKVduhKq7lRh6ZDw==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
