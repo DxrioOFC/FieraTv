@@ -51,7 +51,7 @@
     "samples": [
       {
         "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(s-VDzS3ZjL8WE5kl1AEjcR_cPf4tCW1zMYf9EJnlFucc5HKBpPyCTkpzRJTPprul135cPNwle7Ys-aM3Kr_SKM-SbN8qm0FXmmajwF52e_m101xczChKkwn7_i0L-gIS)/cloud/3/x9ksaba/s/live-240.m3u8#cell=lcf2-eu-north-1a",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(s-VDzS3ZjL8WE5kl1AEjcR_cPf4tCW1zMYf9EJnlFucc5HKBpPyCTkpzRJTPprul135cPNwle7Ys-aM3Kr_SKM-SbN8qm0FXmmajwF52e_m101xczChKkwn7_i0L-gIS)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
