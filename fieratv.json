@@ -3,13 +3,6 @@
     "name": "EVENTOS PY",
     "samples": [
       {
-        "name": "EVENTOS OK",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/locotigo/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS 1",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -3191,6 +3184,14 @@
   },
   {
     "name": "EVENTOS  HD",
-    "samples": []
+    "samples": [
+      {
+        "name": "EVENTOS OK",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/locotigo/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   }
 ]
