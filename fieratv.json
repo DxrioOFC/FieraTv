@@ -170,23 +170,18 @@
     "name": "PARAGUAY🇵🇾",
     "samples": [
       {
+        "name": "TELEFUTURO",
+        "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?k=4954ad01c703e53363c72fa3625bf514c14bebb949445e324d9d78df65f5ddbe&exp=1781476143",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
+      },
+      {
         "name": "ABC HD",
         "url": "https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "TELEFUTURO",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTA0MzU3Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9URUxFRlVUVVJPX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhY2I5Mzg5YmU0NjU2ZjRkIiwic2Vzc2lvbl9pZCI6IjFiZjU4YWM1ZDU1NDkzNDE1MjFmMjhiMTFkODAwMzZhLTE3ODA5MzE1NTctODk4IiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjFiZjU4YWM1ZDU1NDkzNDE1MjFmMjhiMTFkODAwMzZhIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.2Qy464bvTP6EQdFzCOcic_zbv1oCgmadgJ2UH2P_GpNEM4uVxStrlKiB88Nc1O6FfxJH602UDjoGDu7BD_ChaA==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "PY | SNT",
