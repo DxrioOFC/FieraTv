@@ -292,13 +292,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "RCC TV",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/chunklist_w1409050183.m3u8?admin=nacion",
-        "icono": "https://imagizer.imageshack.com/img924/4703/3lly0P.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "RNDP",
         "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=7kLvn5YsK4RDQzHn8sSyeB",
         "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
@@ -377,6 +370,13 @@
         "name": "MI TV",
         "url": "https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1571926671.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/8158/9YiYkA.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "RCC TV",
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/chunklist_w1409050183.m3u8?admin=nacion",
+        "icono": "https://imagizer.imageshack.com/img924/4703/3lly0P.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
