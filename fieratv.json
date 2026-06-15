@@ -478,13 +478,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "PRODUCTIVA TV",
-        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1649940634.m3u8?admin=nacion",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "UNION TV",
         "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
@@ -538,6 +531,13 @@
         "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=7kLvn5YsK4RDQzHn8sSyeB",
         "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
         "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "PRODUCTIVA TV",
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1649940634.m3u8?admin=nacion",
+        "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       }
     ]
