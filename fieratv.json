@@ -387,6 +387,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff"
       },
       {
+        "name": "GEN TV",
+        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w215693246.m3u8?k=86832422ed0601fd7dfd93b1f4307cbc67229a2e0109cc5f026f4c86abaf7719&exp=1781550134",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "SNT HD",
         "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
@@ -446,13 +453,6 @@
         "name": "POPU TV",
         "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GEN TV",
-        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w1492676164.m3u8?k=317d5b00e00e280834b46b068583e90778d68209c41c89d76120a4bd9948f00e&exp=1781532560",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
