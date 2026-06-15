@@ -379,6 +379,13 @@
         "icono": "https://imagizer.imageshack.com/img921/6871/pgW3xV.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "COSMOS TV",
+        "url": "https://tvonline.com.py/#https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
