@@ -191,6 +191,13 @@
     "name": "PARAGUAY🇵🇾",
     "samples": [
       {
+        "name": "GEN HD",
+        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
+      },
+      {
         "name": "TELEFUTURO",
         "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?k=4954ad01c703e53363c72fa3625bf514c14bebb949445e324d9d78df65f5ddbe&exp=1781476143",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -318,13 +325,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "GEN_TV",
-        "url": "https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w12249456.m3u8?k=b2fd32090d35f2da9c649ca20bdf478d566e4a5d594e0b77b33982e8ad7e5112&exp=1781537015",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
       },
       {
         "name": "A24 PY",
