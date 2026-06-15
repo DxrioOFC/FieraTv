@@ -400,6 +400,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BM - BRUNO MASSI",
+        "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
