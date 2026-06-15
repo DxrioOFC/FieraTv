@@ -341,13 +341,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "GO TV",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/chunklist_w957359876.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/5273/WpMo25.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "POPU TV",
         "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_baja/chunklist_w1393012948.m3u8?k=11ea675af325e4a533e974ab61b57ed0053d4acc690e9523f9e310d379c215c9&exp=1781536961",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
@@ -372,6 +365,13 @@
         "name": "TV MAX",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "GO TV",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/chunklist_w957359876.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/5273/WpMo25.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
