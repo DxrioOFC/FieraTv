@@ -17,6 +17,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
+        "name": "POPU TV HD",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w503612844.m3u8?k=50b29fd07f4ccdbb6b94cc1047d3260e4971c9f0e31ee5df5fef81e1a4f2bad4&exp=1781561378",
+        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -27,13 +34,6 @@
           "Referer": "https://www.gen.com.py/",
           "User-Agent": "https://www.gen.com.py/"
         }
-      },
-      {
-        "name": "POPU TV HD",
-        "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_baja/chunklist_w1493527912.m3u8?k=11ea675af325e4a533e974ab61b57ed0053d4acc690e9523f9e310d379c215c9&exp=1781536961",
-        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       },
       {
         "name": "WIN SPORTS +",
