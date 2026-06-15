@@ -3,6 +3,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "TRECE HD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(FG-7iBB9e-YPplyMpLz1hfgoOW1CKW-0WxjdhvGC7L_W5a2ZRSO68qmcQx3tejWnyULwVSMWf0nwd12SD8f3wSNeUBL1k0p-SPl1juBS-wHKwjZj1IdbdyW01T2EJsS8)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+      },
+      {
         "name": "UNICANAL HD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(6Zwr_WmULgRD_79jOaSgps5kNf4ei20L5vCWtfj1UU0s_Ii2PfKnw_d_vSDeQnCz2ZmcTTg5RXxUjTbwY6tOG3liFoszrJRq7XDovyihqrtBXypd1TrPuC9-PtFE72FD)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
@@ -15,13 +22,6 @@
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(uKfhyHKA0TM384Ygj-zAWtAOyXAVmfPmTKjkbtNCCK3Nfhyn5ZS2G819QbOPwwr7upJLHf-BtLrPUv-DQChu10Z3qNlyjqX1P6zy0OnEcjk86S59k13aV4QH54mvZrBs)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
         "name": "POPU TV HD",
