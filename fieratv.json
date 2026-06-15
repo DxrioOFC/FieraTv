@@ -3,6 +3,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "GEN HD",
+        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "HLS",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
+      },
+      {
         "name": "TRECE HD",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(FG-7iBB9e-YPplyMpLz1hfgoOW1CKW-0WxjdhvGC7L_W5a2ZRSO68qmcQx3tejWnyULwVSMWf0nwd12SD8f3wSNeUBL1k0p-SPl1juBS-wHKwjZj1IdbdyW01T2EJsS8)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
@@ -15,13 +22,6 @@
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
-        "name": "GEN HD",
-        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w1492676164.m3u8?k=317d5b00e00e280834b46b068583e90778d68209c41c89d76120a4bd9948f00e&exp=1781532560",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
       },
       {
         "name": "POPU TV HD",
