@@ -394,6 +394,13 @@
     "name": "PARAGUAY 🇵🇾 OPCION 2",
     "samples": [
       {
+        "name": "SNT HD",
+        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TELEFUTURO",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -406,13 +413,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
         "type": "HLS",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80"
-      },
-      {
-        "name": "SNT",
-        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "C9N",
