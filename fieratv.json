@@ -402,13 +402,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "TV CANINDEYU",
-        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ALMAYA TV PILAR",
         "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/2870/NiqbHi.jpg",
@@ -433,6 +426,13 @@
         "name": "BM - BRUNO MASSI",
         "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
         "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TV CANINDEYU",
+        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/1880/FtCxyr.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
