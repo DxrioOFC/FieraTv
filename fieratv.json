@@ -441,7 +441,7 @@
       },
       {
         "name": "GEN TV",
-        "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w1492676164.m3u8?k=317d5b00e00e280834b46b068583e90778d68209c41c89d76120a4bd9948f00e&exp=1781532560",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
         "type": "HLS",
         "drm_license_uri": ""
