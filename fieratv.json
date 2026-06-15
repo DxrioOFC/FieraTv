@@ -3,6 +3,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "GEN SD",
+        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w215693246.m3u8?k=86832422ed0601fd7dfd93b1f4307cbc67229a2e0109cc5f026f4c86abaf7719&exp=1781550134",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -48,13 +55,6 @@
         "name": "DSPORTS",
         "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GEN OK",
-        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w215693246.m3u8?k=86832422ed0601fd7dfd93b1f4307cbc67229a2e0109cc5f026f4c86abaf7719&exp=1781550134",
-        "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
       }
