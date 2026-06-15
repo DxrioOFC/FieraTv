@@ -192,15 +192,10 @@
       },
       {
         "name": "PY | SNT",
-        "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTA2Mjg5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9TTlRfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI4NjNjYzY0ZmE1ZjE0MDIiLCJzZXNzaW9uX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEtMTc4MDkzMzQ4OS0zNzUiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWJmNThhYzVkNTU0OTM0MTUyMWYyOGIxMWQ4MDAzNmEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.NioHn8MqhrK8ei97N5ygY95kgY4zuF3pVwoFzu7RoiOwigEyKCCNwTDx_I3SdiPrgo1KgQxc3g21GLIh1XajFQ==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "C9N  ",
