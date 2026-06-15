@@ -318,6 +318,13 @@
     "name": "PARAGUAY 🇵🇾 INTERIORES",
     "samples": [
       {
+        "name": "COSMOS TV",
+        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "VISIÓN TV",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
@@ -328,13 +335,6 @@
         "name": "MI TV",
         "url": "https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1571926671.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/8158/9YiYkA.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "COSMOS TV",
-        "url": "https://tvonline.com.py/#https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-        "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
