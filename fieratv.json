@@ -322,13 +322,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "PRODUCTIVA TV",
-        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1649940634.m3u8?admin=nacion",
-        "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "REPUBLICA TV",
         "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1506353840.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
@@ -367,6 +360,13 @@
         "name": "HEI",
         "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "PRODUCTIVA TV",
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1649940634.m3u8?admin=nacion",
+        "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
