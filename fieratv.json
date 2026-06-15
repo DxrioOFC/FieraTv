@@ -25,9 +25,9 @@
       },
       {
         "name": "POPU TV HD",
-        "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_baja/chunklist_w982535911.m3u8?k=811136ff3d30b18389112a83e4d6e352f10d73acaf9a480639e613ad04d2af96&exp=1781474958",
+        "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_baja/chunklist_w1493527912.m3u8?k=11ea675af325e4a533e974ab61b57ed0053d4acc690e9523f9e310d379c215c9&exp=1781536961",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
