@@ -273,15 +273,10 @@
       },
       {
         "name": "MEGA TV  PY",
-        "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwODA1NjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJjYTFkYzZmMDY2MzNlNjk3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjU5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.UqJPFWDt-RYbWDQnsA-CMVF7QsPEfwu1nRQs_qyNwbqsa197gFnUuzOKeVab2cYZNgYCZ43pvQ44agL9p12kJw==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
+        "url": "https://copacogen.desdeparaguay.net/780tv/megatv/chunklist_w408804613.m3u8?k=51d45d066a1fb986981b8680a256f66c69336cbe96db5528f348e5ca1bf3e13e&exp=1781536846",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80"
       },
       {
         "name": "SUR TV",
