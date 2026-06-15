@@ -496,6 +496,13 @@
         "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PRODUCTIVA TV",
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1649940634.m3u8?admin=nacion",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
