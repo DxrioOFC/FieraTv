@@ -449,6 +449,18 @@
         "icono": "https://imagizer.imageshack.com/img923/9765/mZQ4ZB.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TvS",
+        "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CqgHPAYq5g47HdKgCFniMNJmGbHds9ebsyB1i_MquqauG6BS6ATiomiKpZzeF__e4mf5SL3_engfzc0EA4Q2gF-NHS_Kvd7n-7w2xm8KPghftIUUg6OJ_Hq5xRlheCJH-VaLriIriwbHi6rKOH1N_gfbA2BbNSuvqn7epzb4hehBocHZkW2Cjn_a9ie4mEQN8MAl54ywx3M_Ih-FpCVR6MbABMAkzxZTrdFErm5FOOLa5mOJ5F79lE83UoJtSY-l2zuhOUk8d_8iTH5Vw7dsDmOX0fWBuoBmieRvLrQvvan2x-EMgBG4hXN43q9grNPKbEeIZ4aIEPOXUNMeQ46VH5LfxSEpYrJ4Mh3nAKNJwtuEHHZ7RiAFT_zbREte2HscgXnhed-qR-q0b97_42uFHLIELuOjkrHg-3xpmUgPTVZK_zn_ErAalZPKZkaPKP7qzulGkkC1SzmPlHMi50nlnOuKsWbQN1Ew8_GFrltoxmeqWaGmWzGnKwStsYjoUWWF2JHZ7k--dCLewla1p1oJ3UcHSP3UxXnIJmQpojmCRn79vRCBaIpTbxm9xPqKBvh3w6_BhEF_lnysQIVmMxiOqvgP5ZE2zaABbTSZ9feP6XlMTpm39W-lQ_AcsWXUGjlhP8yGZKt4FMJmOJWohr-ha-imB7hbhYtaU_mMB_awurc5YirCrVMJnVvPZkCtOaTgRU0Cdf2gPAlRvU0U1InP1G07Fa4zvqePCWK2LgQOjgIDggOaK0GcyWwHUcREoj1tKhNDUeqgUqrbBUzHugV0QIP7z9W3KydbERQ3Te9mPn8Wr_kD-SDtDyBAoHR84LuNi3L6vyD3PxkCz92pjlbhUYGFgtNzLY0T8hhOXIQpCSe75KoI2QkFuRGvy0BqB-3xgbmMYwY51olbaa3n2cYbfcpu49w4XHEHDR5ALSiQU4sJJbGntwU6y8SBxXhktlNm-54kLtogq0dhx7siS9psyjDWYzVGrXaz2adSMPKaKOKb7yaWnHoziBsQ55rp4QDFDSfj9GXhVtDEJQZnW6_Xu5s6HMSqsqgHIgDemu-oqycs_I47gtEnQNqhNFAHTPIyPQafNWSaQjrd_RVzNtkUDYAilRGcp4DLOUHcFsjJn8rd3V7dqqwuccNKhSFMeb4SOCCZIQBIS_aEd0Zkks5Iy3ydoSCcofgskzbSilGyFMy978VrylUL7IrTim4nQFH0ssMAZ9pSxyJQlYLF6QzLeQdg8tLOcq7S6NzaGgwkPnKl6bcJfuzN-AAgASoJdXMtZWFzdC0yMK8P.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": ""
+        }
       }
     ]
   },
