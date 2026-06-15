@@ -102,16 +102,16 @@
     "name": "CANALES DE CORONEL OVIEDO",
     "samples": [
       {
-        "name": "OVIEDO TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/9273/dYa6fH.jpg",
+        "name": "TV MAX",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/6035/lHnSiu.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
       {
-        "name": "TV MAX",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+        "name": "OVIEDO TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/9273/dYa6fH.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
