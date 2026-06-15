@@ -402,13 +402,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "BM - BRUNO MASSI",
-        "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TV CANINDEYU",
         "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
         "icono": "",
@@ -433,6 +426,13 @@
         "name": "RADIO TV FENIX YAGUARON",
         "url": "https://video.hostingcaaguazu.com:19360/radiofenixyaguaron/radiofenixyaguaron.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/185/RU4Q07.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "BM - BRUNO MASSI",
+        "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
