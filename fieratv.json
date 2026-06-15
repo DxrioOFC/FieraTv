@@ -24,6 +24,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
+        "name": "GEN HD",
+        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "POPU TV HD",
         "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_baja/chunklist_w1493527912.m3u8?k=11ea675af325e4a533e974ab61b57ed0053d4acc690e9523f9e310d379c215c9&exp=1781536961",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
@@ -49,13 +56,6 @@
         "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
         "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GEN HD",
-        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "CLEARKEY",
         "drm_license_uri": ""
       }
     ]
