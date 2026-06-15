@@ -4,13 +4,6 @@
     "samples": [
       {
         "name": "GEN HD",
-        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w215693246.m3u8?k=86832422ed0601fd7dfd93b1f4307cbc67229a2e0109cc5f026f4c86abaf7719&exp=1781550134",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
         "type": "HLS",
