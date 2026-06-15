@@ -10,18 +10,18 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
-        "name": "GEN HD",
-        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1133237696.m3u8?k=4cf008911b7cfdf1a26750a138cf623b1141d502e706ed4f8b16384157b08f0c&exp=1781474260",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
-      },
-      {
         "name": "UNICANAL HD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(DYGykOAar8TeBQlWLG5LyPPGfs7DmRoS3JIdUPptvRrDBkkZAkNpq2QoXR806TCDBOvRJwWNA3aWyv1UhUAio3e2pFxF2pH1LBWJnOYv2GyejKlobTlb58SkIMLORcH3)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+      {
+        "name": "GEN HD",
+        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w1492676164.m3u8?k=317d5b00e00e280834b46b068583e90778d68209c41c89d76120a4bd9948f00e&exp=1781532560",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
       },
       {
         "name": "POPU TV HD",
