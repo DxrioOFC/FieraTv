@@ -564,7 +564,15 @@
   },
   {
     "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
-    "samples": []
+    "samples": [
+      {
+        "name": "RT ESPAÑOL",
+        "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/120/XtzYw1.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "DEPORTES ESPAÑA🇪🇸",
@@ -1734,13 +1742,6 @@
   {
     "name": "CANALES INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
     "samples": [
-      {
-        "name": "RT ESPAÑOL",
-        "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/120/XtzYw1.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "CGTN Ñ",
         "url": "https://espanol-livetx-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=f0dc7f4cb097da373c29ecebb1f96389&wsTime=1781624976",
