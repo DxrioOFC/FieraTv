@@ -10,18 +10,6 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
-        "name": "VS SPORTS",
-        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://no.gendigi.net",
-        "headers": {
-          "Origin": "https://no.gendigi.net",
-          "Referer": "https://no.gendigi.net",
-          "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
-        }
-      },
-      {
         "name": "UNICANAL HD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(h-7Qw2_U7D3aX8FiCypgB1_usrwSOZa4Nv9nqBN5-9Ju6Zh0QwaA-MPyj74X2NB9mIBXrrtOPAk74OJD5ad6MAjRlkYbhL61UBB8dTtiaJBlhH0AJw0U-KZvI5S7cWfW)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
@@ -38,6 +26,18 @@
           "Origin": "https://www.gen.com.py/",
           "Referer": "https://www.gen.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "VS SPORTS",
+        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://no.gendigi.net",
+          "Referer": "https://no.gendigi.net",
+          "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
         }
       },
       {
