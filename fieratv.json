@@ -72,13 +72,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "SPORTV 2",
-        "url": "http://cdn-user.com:80/fieratv/480335tv/6480",
-        "icono": "https://imagizer.imageshack.com/img921/3650/zeicKr.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
