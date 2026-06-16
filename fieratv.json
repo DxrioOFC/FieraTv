@@ -237,6 +237,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "ÑANDUTI TV",
+        "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_media/playlist.m3u8",
+        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "C9N",
         "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
@@ -275,13 +282,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
         "type": "HLS",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80"
-      },
-      {
-        "name": "ÑANDUTI TV",
-        "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
-        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "NPY",
