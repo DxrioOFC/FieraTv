@@ -2049,13 +2049,6 @@
     "name": "🎬CANALES DE NOVELAS",
     "samples": [
       {
-        "name": "TNT NOVELAS",
-        "url": "http://localhost.apppelis.es/solplay/35.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-novelas_ef3dd51ad12e4663aa99802657a5417f.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "PASIONES",
         "url": "http://localhost.apppelis.es/solplay/160.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pasiones_468c3ee872154497a20a8fbfa915189f.png",
