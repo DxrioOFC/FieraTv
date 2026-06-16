@@ -124,13 +124,6 @@
     "name": "CANALES DE CORONEL OVIEDO",
     "samples": [
       {
-        "name": "TV MAX",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/6035/lHnSiu.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "OVIEDO TV",
         "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/9273/dYa6fH.jpg",
@@ -363,6 +356,13 @@
   {
     "name": "PARAGUAY 🇵🇾 INTERIORES",
     "samples": [
+      {
+        "name": "TV MAX",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/6035/lHnSiu.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
       {
         "name": "COSMOS TV",
         "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
