@@ -671,13 +671,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "TV5MONDE",
-        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "RAI",
         "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1781718359~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=846919cd2572b7d468f1459a23d0c87e3a39e11c75fe237ed768161949469548/chunklist.m3u8?aka_me_session_id=AAAAAAAAAABX3TJqAAAAAEsC%2fo8GRepRQ+qd5MnoKLvNdYwNrocOfkjuOd2iJSi6hkJJejo%2fwHLdcpO1pjKOeT+z6yibhxi3&aka_media_format_type=hls",
         "icono": "",
