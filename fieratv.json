@@ -581,10 +581,15 @@
       },
       {
         "name": "RAI ITALIA",
-        "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1781718017~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=7128af588a4b95108122442df7a58fbc3328da69d247dd000d82d5b8cc9b709e/chunklist.m3u8?aka_me_session_id=AAAAAAAAAAAB3DJqAAAAABC+p9bwCkzqKVQc3lyp25gzNMi1cl5yjrBn0EFXKpTiH8yL4vm7xyi5OZ29iQdNwyyjJfO+MB0i&aka_media_format_type=hls",
+        "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1781718017~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=7128af588a4b95108122442df7a58fbc3328da69d247dd000d82d5b8cc9b709e/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/9717/pwMw3i.png",
-        "type": "HLS",
-        "drm_license_uri": ""
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://www.rainews.it/notiziari/rainews24",
+          "Referer": "https://www.rainews.it/notiziari/rainews24",
+          "User-Agent": ""
+        }
       },
       {
         "name": "CNN Ñ",
