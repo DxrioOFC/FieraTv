@@ -3,6 +3,18 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "VS SPORTS",
+        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8'",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": "https://no.gendigi.net",
+        "headers": {
+          "Origin": "https://no.gendigi.net",
+          "Referer": "https://mark1.via.gp",
+          "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
+        }
+      },
+      {
         "name": "TRECE HD",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(hJMDEinGi_xOcUfsDGadQxY4886NTaX2g8VoVsMg-3Y40-6i0HfnV5FW_5gIVdkx22mBRLKLv5MpIGyehoRu6cxV9GiWPVE5O-EJqNwdaFysMOymg4FteNHKGZorOVee)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
@@ -71,18 +83,6 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "VS SPORTS",
-        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8'",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://no.gendigi.net",
-          "Referer": "https://mark1.via.gp",
-          "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
         }
       }
     ]
