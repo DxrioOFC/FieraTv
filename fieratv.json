@@ -904,18 +904,6 @@
     "name": "DEPORTES MEXICO🇲🇽",
     "samples": [
       {
-        "name": "TUDN MEXICO",
-        "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd",
-        "icono": "http://xplatinmedia.com:8080/images/aee75b75c47968e983717d7345e1d91c.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid= 3fc370ab08218da5dad9b9644f1df57b&key=1ddc60916c0efd29990cb1d319e7710a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "VIX TUDN",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
         "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
