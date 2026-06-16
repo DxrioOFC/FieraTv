@@ -601,18 +601,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "RAI ITALIA",
-        "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1781718017~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=7128af588a4b95108122442df7a58fbc3328da69d247dd000d82d5b8cc9b709e/chunklist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/9717/pwMw3i.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://www.rainews.it/notiziari/rainews24",
-          "Referer": "https://www.rainews.it/notiziari/rainews24",
-          "User-Agent": ""
-        }
-      },
-      {
         "name": "HISPAN TV",
         "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7859/kOuX7e.jpg",
@@ -695,6 +683,18 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RAI ITALIA",
+        "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1781718017~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=7128af588a4b95108122442df7a58fbc3328da69d247dd000d82d5b8cc9b709e/chunklist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/9717/pwMw3i.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://www.rainews.it/notiziari/rainews24",
+        "headers": {
+          "Origin": "https://www.rainews.it/notiziari/rainews24",
+          "Referer": "https://www.rainews.it/notiziari/rainews24",
+          "User-Agent": ""
+        }
       }
     ]
   },
