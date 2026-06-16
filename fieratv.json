@@ -309,6 +309,18 @@
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b"
+      },
+      {
+        "name": "ROCK & POP TV",
+        "url": "https://copacoradios.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/chunklist_w317808252.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://desdeparaguay.com/",
+          "Referer": "https://desdeparaguay.com/",
+          "User-Agent": ""
+        }
       }
     ]
   },
