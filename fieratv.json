@@ -218,18 +218,6 @@
         }
       },
       {
-        "name": "ÑANDUTI TV HD",
-        "url": "https://nanduti.b-cdn.net/1080p.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/1739/N1GI1c.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://desdeparaguay.com/",
-          "Referer": "https://desdeparaguay.com/",
-          "User-Agent": ""
-        }
-      },
-      {
         "name": "TELEFUTURO",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -242,6 +230,18 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ÑANDUTI TV HD",
+        "url": "https://nanduti.b-cdn.net/1080p.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/1739/N1GI1c.png",
+        "type": "HLS",
+        "drm_license_uri": "https://nanduti.com.py/",
+        "headers": {
+          "Origin": "https://nanduti.com.py/",
+          "Referer": "https://nanduti.com.py/",
+          "User-Agent": "https://nanduti.com.py/"
+        }
       },
       {
         "name": "LA TELE HD",
