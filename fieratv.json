@@ -514,18 +514,6 @@
         }
       },
       {
-        "name": "RED CHAQUEÑA TV",
-        "url": "https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/chunklist_w1806818819.m3u8",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://desdeparaguay.com/",
-        "headers": {
-          "Origin": "https://desdeparaguay.com/rcctv",
-          "Referer": "https://desdeparaguay.com/rcctv",
-          "User-Agent": ""
-        }
-      },
-      {
         "name": "COLMENAR TV",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/5806/X6pbY6.jpg",
@@ -538,6 +526,18 @@
         "icono": "https://imagizer.imageshack.com/img923/8235/BwHkY3.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RED CHAQUEÑA TV",
+        "url": "https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/chunklist_w1806818819.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/4703/3lly0P.jpg",
+        "type": "HLS",
+        "drm_license_uri": "https://desdeparaguay.com/",
+        "headers": {
+          "Origin": "https://desdeparaguay.com/rcctv",
+          "Referer": "https://desdeparaguay.com/rcctv",
+          "User-Agent": ""
+        }
       }
     ]
   },
