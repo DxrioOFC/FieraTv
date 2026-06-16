@@ -74,13 +74,6 @@
         }
       },
       {
-        "name": "SPORTV",
-        "url": "http://cdn-user.com:80/fieratv/480335tv/34875",
-        "icono": "https://imagizer.imageshack.com/img921/3650/zeicKr.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "SPORTV 2",
         "url": "http://cdn-user.com:80/fieratv/480335tv/6480",
         "icono": "https://imagizer.imageshack.com/img921/3650/zeicKr.png",
