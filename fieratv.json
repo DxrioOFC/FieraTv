@@ -468,7 +468,7 @@
       {
         "name": "DISMAR TV",
         "url": "https://copacogen.desdeparaguay.net/dismartv/dismartv/chunklist.m3u8",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img923/573/ZJAPK9.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://desdeparaguay.net",
         "headers": {
