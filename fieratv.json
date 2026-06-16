@@ -60,6 +60,13 @@
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PRUEBA",
+        "url": "http://46.151.196.223:14428/",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
