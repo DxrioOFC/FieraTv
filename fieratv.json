@@ -62,13 +62,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "PRUEBA",
-        "url": "http://46.151.196.223:14428/",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "PRUEBA 2",
         "url": "http://46.151.196.223:14418/",
         "icono": "",
