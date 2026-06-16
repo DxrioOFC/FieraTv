@@ -2108,6 +2108,13 @@
     "name": "🎬CANALES DE NOVELAS",
     "samples": [
       {
+        "name": "PASIONES",
+        "url": "http://localhost.apppelis.es/solplay/160.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pasiones_468c3ee872154497a20a8fbfa915189f.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TLN",
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         "type": "CLEARKEY",
@@ -2131,13 +2138,6 @@
           "Referer": "https://player.sensa.com.ar/",
           "webtoken": "1.0"
         }
-      },
-      {
-        "name": "PASIONES",
-        "url": "http://localhost.apppelis.es/solplay/170.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pasiones_468c3ee872154497a20a8fbfa915189f.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "TNT NOVELAS",
