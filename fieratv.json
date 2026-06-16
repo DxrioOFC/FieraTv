@@ -1339,13 +1339,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "MULTI SHOWS",
-        "url": "https://canaiss.fazoeli.co.za/token/0f459cc83b0495842b708ab04c921855/multishow.m3u8",
-        "icono": "https://i.postimg.cc/DZjfgFjF/images-(1).png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TLC",
         "url": "http://79.127.238.228:14433/GLOBO",
         "icono": "https://imagizer.imageshack.com/img924/8696/ooAowr.png",
