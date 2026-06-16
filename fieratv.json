@@ -10,6 +10,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
+        "name": "CGTN Ñ",
+        "url": "https://espanol-livetx-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=f0dc7f4cb097da373c29ecebb1f96389&wsTime=1781624976",
+        "icono": "https://imagizer.imageshack.com/img923/2204/ckNcaJ.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "UNICANAL HD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(h-7Qw2_U7D3aX8FiCypgB1_usrwSOZa4Nv9nqBN5-9Ju6Zh0QwaA-MPyj74X2NB9mIBXrrtOPAk74OJD5ad6MAjRlkYbhL61UBB8dTtiaJBlhH0AJw0U-KZvI5S7cWfW)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
