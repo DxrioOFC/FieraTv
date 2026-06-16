@@ -5,8 +5,8 @@
       {
         "name": "VS SPORTS",
         "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8'",
-        "icono": "",
-        "type": "HLS",
+        "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://no.gendigi.net",
         "headers": {
           "Origin": "https://no.gendigi.net",
