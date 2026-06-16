@@ -206,6 +206,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "SNT HD",
+        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "Rock & POP TV",
         "url": "https://rockandpop.b-cdn.net/Source.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
@@ -223,13 +230,6 @@
           "Referer": "https://nanduti.com.py/",
           "User-Agent": "https://nanduti.com.py/"
         }
-      },
-      {
-        "name": "SNT HD",
-        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "ABC TV",
