@@ -671,13 +671,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "RAI",
-        "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1781718359~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=846919cd2572b7d468f1459a23d0c87e3a39e11c75fe237ed768161949469548/chunklist.m3u8?aka_me_session_id=AAAAAAAAAABX3TJqAAAAAEsC%2fo8GRepRQ+qd5MnoKLvNdYwNrocOfkjuOd2iJSi6hkJJejo%2fwHLdcpO1pjKOeT+z6yibhxi3&aka_media_format_type=hls",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "RAI ITALIA",
         "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1781718017~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=7128af588a4b95108122442df7a58fbc3328da69d247dd000d82d5b8cc9b709e/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/9717/pwMw3i.png",
