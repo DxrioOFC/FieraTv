@@ -1391,13 +1391,6 @@
         "icono": "https://imagizer.imageshack.com/img924/8696/ooAowr.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "VENUS",
-        "url": "http://cdn-user.com:80/fieratv/480335tv/28293",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
