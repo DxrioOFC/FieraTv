@@ -587,6 +587,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "LOVE NATURE",
+        "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "CGTN DOCUMENTARY",
         "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/390/6y2uoI.jpg",
@@ -618,13 +625,6 @@
         "name": "HISPAN TV",
         "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7859/kOuX7e.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LOVE NATURE",
-        "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-cc/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
