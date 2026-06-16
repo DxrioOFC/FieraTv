@@ -662,6 +662,13 @@
         "icono": "https://imagizer.imageshack.com/img921/9728/ghLv8d.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RTVE",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main_720.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/4575/5zuE5Z.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
