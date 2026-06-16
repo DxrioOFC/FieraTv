@@ -634,6 +634,13 @@
         "icono": "https://imagizer.imageshack.com/img923/822/Iai306.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "80 ANNI",
+        "url": "https://b6a278eef7f34e11860a56f954ca5059.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_80Anni2aGuerraMondiale/c101a23c-0d86-4313-bc4c-0a6e89e74ce8/2.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/9728/ghLv8d.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
