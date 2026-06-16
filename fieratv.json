@@ -1501,18 +1501,6 @@
     "name": "BRASIL DEPORTE",
     "samples": [
       {
-        "name": "PREMIERE  CLUBES",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=192b1115da041585c77200128549efa1&key=634e10efe4abbb14be400a3ccbac0258",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "PREMIER 2",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
