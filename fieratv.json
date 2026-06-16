@@ -662,6 +662,13 @@
         "icono": "https://imagizer.imageshack.com/img923/5607/WY8ky8.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PRUEBA",
+        "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
