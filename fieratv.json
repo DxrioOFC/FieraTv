@@ -213,6 +213,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "ABC TV",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(iXTSBcOOZK0mcqSzFkEeqOd1s_G3nHy5m3_DeJ6oYzWpKIx2qXnA9VucZDZumgQxtEgqnTbNJXHre2ssucwOK3OLyup7TiiPu-Ac-gNDJn0j1dYX2Lbh7xzlDCJY7PpN)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://www.abc.com.py/tv/",
+        "headers": {
+          "Origin": "https://www.abc.com.py/tv/",
+          "Referer": "https://www.abc.com.py/tv/",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "Rock & POP TV",
         "url": "https://rockandpop.b-cdn.net/Source.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
@@ -229,18 +241,6 @@
           "Origin": "https://nanduti.com.py/",
           "Referer": "https://nanduti.com.py/",
           "User-Agent": "https://nanduti.com.py/"
-        }
-      },
-      {
-        "name": "ABC TV",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(iXTSBcOOZK0mcqSzFkEeqOd1s_G3nHy5m3_DeJ6oYzWpKIx2qXnA9VucZDZumgQxtEgqnTbNJXHre2ssucwOK3OLyup7TiiPu-Ac-gNDJn0j1dYX2Lbh7xzlDCJY7PpN)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://www.abc.com.py/tv/",
-        "headers": {
-          "Origin": "https://www.abc.com.py/tv/",
-          "Referer": "https://www.abc.com.py/tv/",
-          "User-Agent": ""
         }
       },
       {
