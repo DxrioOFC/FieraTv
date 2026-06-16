@@ -566,6 +566,13 @@
     "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
     "samples": [
       {
+        "name": "TELE SUR VENEZUELA",
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/2194/0f3qoF.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "HISPAN TV",
         "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7859/kOuX7e.jpg",
@@ -1762,14 +1769,6 @@
   },
   {
     "name": "CANALES INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
-    "samples": [
-      {
-        "name": "TELE SUR VENEZUELA",
-        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/2194/0f3qoF.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
+    "samples": []
   }
 ]
