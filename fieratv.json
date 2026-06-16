@@ -122,15 +122,7 @@
   },
   {
     "name": "CANALES DE CORONEL OVIEDO",
-    "samples": [
-      {
-        "name": "TVA OVIEDO",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
+    "samples": []
   },
   {
     "name": "DEPORTES PREMIUM 🏆",
@@ -360,6 +352,13 @@
         "name": "OVIEDO TV",
         "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/9273/dYa6fH.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TVA OVIEDO",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
