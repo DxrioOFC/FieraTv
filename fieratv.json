@@ -1311,6 +1311,13 @@
     "name": "CANALES DE BRASIL🇧🇷",
     "samples": [
       {
+        "name": "GLOBO SÃO PAULO",
+        "url": "http://cdn-user.com:80/fieratv/480335tv/347113",
+        "icono": "https://imagizer.imageshack.com/img923/298/sczM7k.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GLOBO",
         "url": "http://24.152.42.29:8000/play/a08s/index.m3u8?hls",
         "icono": "https://imagizer.imageshack.com/img923/298/sczM7k.jpg",
