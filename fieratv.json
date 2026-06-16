@@ -10,6 +10,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
+        "name": "TRECE HD",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=GjnkX_wkz-XxfB2EYFkOmDe9oaUwnxe5thb6hAGkDm9IVM3SPAJMd_bD2UZeGC8_UoBov9W_MiUlaBh_n-DL4qjannZKiNrOwP_IThz2QNjTADknpvj5bkTs341oxsu1&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+      },
+      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -20,13 +27,6 @@
           "Referer": "https://www.gen.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=GjnkX_wkz-XxfB2EYFkOmDe9oaUwnxe5thb6hAGkDm9IVM3SPAJMd_bD2UZeGC8_UoBov9W_MiUlaBh_n-DL4qjannZKiNrOwP_IThz2QNjTADknpvj5bkTs341oxsu1&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
         "name": "POPU TV HD",
