@@ -904,18 +904,6 @@
     "name": "DEPORTES MEXICO🇲🇽",
     "samples": [
       {
-        "name": "VIX TUDN",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
-        "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=192b1115da041585c77200128549efa1&key=634e10efe4abbb14be400a3ccbac0258",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "FOX SPORT PREMIUM MEXICO",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
