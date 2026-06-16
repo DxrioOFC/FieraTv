@@ -502,16 +502,16 @@
         }
       },
       {
-        "name": "GUAIRA TV",
-        "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
-        "icono": "https://imagizer.imageshack.com/img924/8236/hSX5zV.jpg",
+        "name": "COLMENAR TV",
+        "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/5806/X6pbY6.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
       {
-        "name": "COLMENAR TV",
-        "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/5806/X6pbY6.jpg",
+        "name": "GUAIRA TV",
+        "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/8235/BwHkY3.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
