@@ -566,6 +566,13 @@
     "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
     "samples": [
       {
+        "name": "HISPAN TV",
+        "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/7859/kOuX7e.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "CGTN Ñ",
         "url": "https://espanol-livetx-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=f0dc7f4cb097da373c29ecebb1f96389&wsTime=1781624976",
         "icono": "https://imagizer.imageshack.com/img923/2204/ckNcaJ.jpg",
@@ -1749,13 +1756,6 @@
   {
     "name": "CANALES INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
     "samples": [
-      {
-        "name": "HISPAN TV",
-        "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/7859/kOuX7e.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "TELE SUR VENEZUELA",
         "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8",
