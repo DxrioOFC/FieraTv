@@ -15,18 +15,18 @@
         }
       },
       {
-        "name": "UNICANAL HD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=YLyV__GuPHlimKgdigc-4X12dDpIEFHTlQ3WImD-tK8sM4HmLEW8rRrXnnCxQiNsRZmecaIHbXMr-1nuxRYmdnlgd3CuioJAyXc31U7Ybe6UbD428qKCLD71Mk9aRRZ-&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
         "name": "TRECE HD",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(cpQrMJkhZ1HBSI3QcR-9z4QAjJufZlIxGmGcVxADaY_zMWy-EwnmyNbiER5U1Zk_U8jNu9jOV6JMCjCtfJ8G3VES194RmYXWzhkhNPgidJxBsItUG40j0M61mg4x1DHI)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+      },
+      {
+        "name": "UNICANAL HD",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=CpBLE7sI2yQGHBPeO45wwwXiCCHG_uZ-ogqdM8BAkv7AOu5Osmqmjt5Sr8MUfVWWSFd5B9EH7lQeZdGAv7pgKyB70y0iZCgmPkkRZIxdkf5CxLzDeSqc_a6ZpWEN8kCz&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "VS SPORTS",
