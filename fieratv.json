@@ -313,10 +313,10 @@
       },
       {
         "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1116298642.m3u8?k=428fa66dc664d77f70cd8311e8bd2601908d6ea90e962d37cb6cae087f640f7c&exp=1781692398",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=a96e7c17d9be02557b3c3c0c0eba824defdd7f0174e4cf2362f96d3e40f85bc1&exp=1781728187",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b"
+        "drm_license_uri": ""
       },
       {
         "name": "GO TV",
