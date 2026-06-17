@@ -10,13 +10,6 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
-        "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(jYRFdeh4UUCgJzMAGfs_tBFIUIbmrBMogwG7zUHqLE2iP1DfmeJF5SS7GyASZBepkDUzscjCUvfD0pMYPgye9SOeqAwLfnB0Lh1bCBnkjtajDYrAvTCq36IABoFmC9x1)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
-      },
-      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -27,6 +20,13 @@
           "Referer": "https://www.gen.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TRECE HD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(cpQrMJkhZ1HBSI3QcR-9z4QAjJufZlIxGmGcVxADaY_zMWy-EwnmyNbiER5U1Zk_U8jNu9jOV6JMCjCtfJ8G3VES194RmYXWzhkhNPgidJxBsItUG40j0M61mg4x1DHI)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
         "name": "VS SPORTS",
