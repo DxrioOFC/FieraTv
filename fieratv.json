@@ -3,13 +3,6 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "TRECE HD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=N2yKqY6qhkcU2DGjeDECZ9zrLCZAel0KlSX2Qn8CIwVamNlgAJ3e9xTakvvDtakxdP9jMdSZHK6devukrlYQ3o34YJQ8YYSdIWdrpMErNz_6NjuI5cZBomAaTMVX4FrC&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
-      },
-      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -20,6 +13,13 @@
           "Referer": "https://www.gen.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TRECE HD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Fqu8w00AM68Z8SC4uGYlkLr2JGONn2qnWEUyhr8q7q2Ax-CrhX22t94SgrwDvpzSmA7I7aL1sihcEuKWKY9W26WGPg1fN3-byXpgvwDTO4GsBT3aEMmMlYnDKMhTbC4W)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
         "name": "UNICANAL HD",
