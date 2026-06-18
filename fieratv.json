@@ -29,6 +29,18 @@
         }
       },
       {
+        "name": "POPU TV HD",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=02bcfc4c0a5c5af70bbe6baa6e7f9d483b179dc67c58adde5d7f00d2bb83d182&exp=1781801588",
+        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "headers": {
+          "Origin": "https://www.gen.com.py/live/",
+          "Referer": "https://www.gen.com.py/live/",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "VS SPORTS",
         "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
@@ -38,18 +50,6 @@
           "Origin": "https://no.gendigi.net",
           "Referer": "https://no.gendigi.net",
           "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
-        }
-      },
-      {
-        "name": "POPU TV HD",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=a96e7c17d9be02557b3c3c0c0eba824defdd7f0174e4cf2362f96d3e40f85bc1&exp=1781728187",
-        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "headers": {
-          "Origin": "https://www.gen.com.py/live/",
-          "Referer": "https://www.gen.com.py/live/",
-          "User-Agent": ""
         }
       },
       {
