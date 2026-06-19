@@ -598,6 +598,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "RT ESPAÑOL",
+        "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/120/XtzYw1.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "CGTN DOCUMENTARY",
         "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/390/6y2uoI.jpg",
@@ -636,13 +643,6 @@
         "name": "HISPAN TV",
         "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7859/kOuX7e.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "RT ESPAÑOL",
-        "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/120/XtzYw1.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
