@@ -1338,13 +1338,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "GLOBO SÃO PAULO",
-        "url": "http://cdn-user.com:80/fieratv/480335tv/35907",
-        "icono": "https://imagizer.imageshack.com/img923/298/sczM7k.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "RECORD SP",
         "url": "http://cdn-user.com:80/fieratv/480335tv/35790",
         "icono": "https://imagizer.imageshack.com/img922/8085/sb4WYg.png",
