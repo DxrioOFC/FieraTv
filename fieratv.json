@@ -570,6 +570,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "RTVE",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/4575/5zuE5Z.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "BOLIVIA TV",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(T1GTB6DdePqwCyaP-Xa5WdkRHH94x09c8jUa-eYtAPJbgfsEJGIzP991MWMHyaL1Sxwr_hFnNKhNeVLoQF3CGMC6EJnPFo3uB5Ta_3nFWFSHWy-BUIc2N207gIRIun6j)/cloud/3/x9nzqpo/d/live-380.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://imagizer.imageshack.com/img923/6564/N2LeFy.jpg",
@@ -657,13 +664,6 @@
         "name": "VISION LATINA",
         "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/64917431-2f51-0a46-d4d0-04d111b2393f/source/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/822/Iai306.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "RTVE",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main_720.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/4575/5zuE5Z.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
