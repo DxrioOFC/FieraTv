@@ -246,13 +246,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=02bcfc4c0a5c5af70bbe6baa6e7f9d483b179dc67c58adde5d7f00d2bb83d182&exp=1781801588",
-        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "LA TELE HD",
         "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
@@ -285,6 +278,13 @@
         "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
         "type": "",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "POPU TV",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=c879f745be1c11f3f368cbc8140380d004157c4d9f358a32baaa5bbf9b8eab39&exp=1781874181",
+        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
