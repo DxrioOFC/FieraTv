@@ -180,13 +180,6 @@
         }
       },
       {
-        "name": "ROCK & POP",
-        "url": "https://rockandpop.b-cdn.net/480p.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TELEFUTURO",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -256,6 +249,13 @@
         "name": "LA TELE HD",
         "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ROCK & POP",
+        "url": "https://rockandpop.b-cdn.net/480p.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
