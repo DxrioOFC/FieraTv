@@ -3,13 +3,6 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "UNICANAL HD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(VETeQy4qeEJQBiJoYat1RQc_zcBCkODKTrFfEkoz5mI-tOEDTyiRw0070eHyx3Q0vcHT42-Ir7nx8ymqFRmzIMNAS2uEOtIJ_hJMQntyHdwHsQb4jOnx9hzOU1n86itY)/cloud/3/x9ko9z8/s/live-720.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
         "name": "APF TV",
         "url": "http://167.71.169.4/hls/fieratv.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/9145/H7MmGO.png",
@@ -22,6 +15,13 @@
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+      },
+      {
+        "name": "UNICANAL HD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(akhqiHguSCiiG6VbkLfy1xRBF8631KUR8cA6BM8-H9d_ARknmhLGZ-wqh9_xnp_IgnDS1Xyzmfkdkuiu7wNDExXHFSjSLwcqW5-u3Ai2xy_GcRwCDZO2HOlUYR9Q-Q-w)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "GEN HD",
