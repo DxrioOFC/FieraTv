@@ -161,6 +161,18 @@
     "name": "PARAGUAY 🇵🇾",
     "samples": [
       {
+        "name": "ABC TV",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(M68l1fQSFprSYM9rDBrEdB2qaSPhcrAe7z4Fif1jYnhxQeB5UR91f1xzmeASzRIeohAPo46MZncLmjhbpBVuSalFEcR5CpM7yIBYKuRM3TvW2tYR_zO3aj7t7_CXeieh)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://www.abc.com.py/tv/",
+        "headers": {
+          "Origin": "https://www.abc.com.py/tv/",
+          "Referer": "https://www.abc.com.py/tv/",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "TELEFUTURO",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -173,18 +185,6 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "ABC TV",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(0ejlt9H4bWFnK-VSeImKmr9vTdTKMJSldf_CJ3fsyej5xFO4AEHQSl3Qo6ePhmRQ6DE4ywSwyi561FLmjduPuiDEA4497N5BH1FWrEEcrdFe5P7YrBMQdCtHZBQE8HDq)/cloud/3/x9skr3m/d/live-720.m3u8?",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://www.abc.com.py/tv/",
-        "headers": {
-          "Origin": "https://www.abc.com.py/tv/",
-          "Referer": "https://www.abc.com.py/tv/",
-          "User-Agent": ""
-        }
       },
       {
         "name": "GEN HD",
