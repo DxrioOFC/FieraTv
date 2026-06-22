@@ -3,6 +3,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "TRECE HD",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=XzW7OhhwEO-yvEEEsBxbuPZxT-o0tSJNAWHbn1LuYHJwWxxEnKt4GLK-tXSuerlgseRyF4VQ7HLtB43sTSv_vYXrJU1UkdnQSAh1QUtyAJVoWIfNKxHc81pXnGUX0L7B&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+      },
+      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -20,13 +27,6 @@
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(d4vQnq5QqSVstqBPLXXgYGQkk-aZKempfqywR19bc1VpeE-UhWzDVi-i_9lIzFKUrDv1b1hCC2oQRiJamYhRDg7zHTZykHCJJiU5DjohGXo3vJmfr21TjH68yNjCIWYB)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
         "name": "VS SPORTS",
