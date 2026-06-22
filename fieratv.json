@@ -281,13 +281,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=c879f745be1c11f3f368cbc8140380d004157c4d9f358a32baaa5bbf9b8eab39&exp=1781874181",
-        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "REPUBLICA TV",
         "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1506353840.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
@@ -320,6 +313,13 @@
         "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_media/playlist.m3u8",
         "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
         "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "POPU TV",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=ec02def6c2dc08e200d6ea73eb36fc5f22a5a5ff598f6b8ab8b6777aed400560&exp=1782149007",
+        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       }
     ]
