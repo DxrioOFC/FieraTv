@@ -3,6 +3,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "UNICANAL HD",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=TPmnqMjO0GVMQ_0_TcUX2qRHC12PKybuHVNGXqxeEBr3wzyYo6FZZPWHEgQib_sBe7Q7K0Wq8Ifea0B1IxCjrtF5VhWFvqoeKapl1JCkkyvGbVFaZTHnXi8fBfwI2cuD&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+      {
         "name": "SporTV",
         "url": "https://rm8zcvk3.fubo18.com/sportv/mono.m3u8?token=ac0bc11233eb520f031f7d2d23f65c65e26cd205-c9-1782197628-1782179628",
         "icono": "https://imagizer.imageshack.com/img921/3650/zeicKr.png",
@@ -46,13 +53,6 @@
           "Referer": "https://www.gen.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "UNICANAL HD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=5dUji8ekGo0dgGSyDyvgxT3t0F0QCvDlvVrKxr7OqD7fU6qbRrYy7VSKJXbc6ENx8VMN10ftM9CCfpRS8V2CdN7aADWXcA0Sk7a4ccxAZBFoF81nW108ZDfDQkLTnzrK&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "VS SPORTS",
