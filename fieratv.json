@@ -10,13 +10,6 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
-        "name": "SporTV",
-        "url": "https://rm8zcvk3.fubo18.com/sportv/mono.m3u8?token=ac0bc11233eb520f031f7d2d23f65c65e26cd205-c9-1782197628-1782179628",
-        "icono": "https://imagizer.imageshack.com/img921/3650/zeicKr.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "DSPORTS 1",
         "url": "https://bgvnzw5k.fubo18.com/dsports/mono.m3u8?token=b3cdd68a98bbbc4131d4a2bacb304222ed0680c6-d5-1782197520-1782179520",
         "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
