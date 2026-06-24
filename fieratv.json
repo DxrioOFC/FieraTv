@@ -168,6 +168,18 @@
     "name": "PARAGUAY 🇵🇾",
     "samples": [
       {
+        "name": "ABC TV",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(-6gWsiCv3zkYosaF5lwow1jsNwI_M0VIBvIEV6-GdHpuU7GOZmBQl_nvYRq78Tc719eELAM1IZ2OWzTAqbSmjyu7MPY_2EYFohzOr_2OatW9XbwgmBPm12mBk1XyvJxY)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://www.abc.com.py/tv/",
+        "headers": {
+          "Origin": "https://www.abc.com.py/tv/",
+          "Referer": "https://www.abc.com.py/tv/",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "TELEFUTURO",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -199,18 +211,6 @@
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "ABC TV",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(h3vPO9bKA1g2Hb_McaNWxu-Jlap1VdbN_9EyXRgmqEYXAWIm2XRtIIZkKDOVxJYYZXi-AWBJ_ltwf4wiVmjzo-8pO80fc-uRJArbTxGKdGfmffHLtRwLdOEgLD_DP2ve)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://www.abc.com.py/tv/",
-        "headers": {
-          "Origin": "https://www.abc.com.py/tv/",
-          "Referer": "https://www.abc.com.py/tv/",
-          "User-Agent": ""
-        }
       },
       {
         "name": "ÑANDUTI TV HD",
