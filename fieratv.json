@@ -27,13 +27,6 @@
         }
       },
       {
-        "name": "UNICANAL HD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=AXKiUgb-19EhFQzICfQCA2DLOuaHI-BfQwYm78_d30SaJur-AUsjcoH8ZSB6d9PvINObXcnQfVGmokVTWLIQH-go8wGGCqlcMInxAxo_iGsqP1Z4PfadnkYaIg6uF9X_&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
         "name": "TRECE HD",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-3Gqv6pRpY1K9nB-JOWbBU-6_KT3BekMjpsGoLIPN4uQpQVnoNQUAn7VAdEgpXsP0SrofegbCeijn-WYlKbohFkoS6gMH7-mUv3VXEisapG8sMeYxu_ypETMtCy_oGv4)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
@@ -46,6 +39,13 @@
         "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "UNICANAL HD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(05YpdLdcxHUUYKmBlR_puFtDxorjm1oQwIim3-4Q4Ss9D8tvvNlazuXsG9LXpVmmhW4S5dFZBRxBHpS0_56ptNdl_fieasyqTyF-N4qfcbemBGgVNgQCB7VF31uK51-e)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "WIN SPORTS +",
