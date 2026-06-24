@@ -3,13 +3,6 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "UNICANAL HD",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=TPmnqMjO0GVMQ_0_TcUX2qRHC12PKybuHVNGXqxeEBr3wzyYo6FZZPWHEgQib_sBe7Q7K0Wq8Ifea0B1IxCjrtF5VhWFvqoeKapl1JCkkyvGbVFaZTHnXi8fBfwI2cuD&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
         "name": "TRECE HD",
         "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=gYHRdGnyff6lWRuzXQM-ybTzuEj78rAwnt4_Bht9Pvl6uRbS-WxHTvAAJslWKVzOEch38ERu40fbtuYe_y0GrrrF6P1X6OA9L1tvm9OjZ4E6FUU_nQDmat4Is6OsaxnC&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
@@ -39,6 +32,13 @@
           "Referer": "https://no.gendigi.net",
           "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
         }
+      },
+      {
+        "name": "UNICANAL HD",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=AXKiUgb-19EhFQzICfQCA2DLOuaHI-BfQwYm78_d30SaJur-AUsjcoH8ZSB6d9PvINObXcnQfVGmokVTWLIQH-go8wGGCqlcMInxAxo_iGsqP1Z4PfadnkYaIg6uF9X_&dmTs=242275&dmV1st=db32567a-c092-2824-6591-9feec1680b01",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "FIFA +",
