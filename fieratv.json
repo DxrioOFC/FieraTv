@@ -22,6 +22,13 @@
         }
       },
       {
+        "name": "UNICANAL HD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(vTKuzKObbswUPLEhvrQr6Hr3ZCiLK_c0vW2zoL44ndQ5xrJKx7TBkbkI6UHfL3iyakpAGTCDO5u2i01FFzFk6pULo7zk7V41d2JizPObj9LhCAqbDHSasuoOD5q9YPyW)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+      {
         "name": "VS SPORTS",
         "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
@@ -46,13 +53,6 @@
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "UNICANAL HD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(05YpdLdcxHUUYKmBlR_puFtDxorjm1oQwIim3-4Q4Ss9D8tvvNlazuXsG9LXpVmmhW4S5dFZBRxBHpS0_56ptNdl_fieasyqTyF-N4qfcbemBGgVNgQCB7VF31uK51-e)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "FIFA +",
