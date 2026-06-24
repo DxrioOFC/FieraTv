@@ -187,18 +187,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "ABC TV",
-        "url": "https://dmxleo.dailymotion.com/cdn/manifest/video/kQRS6ZAjGuMkByE4Mtc.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Fwww.abc.com.py%2F",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://www.abc.com.py/tv/",
-        "headers": {
-          "Origin": "https://www.abc.com.py/tv/",
-          "Referer": "https://www.abc.com.py/tv/",
-          "User-Agent": ""
-        }
-      },
-      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -216,6 +204,18 @@
         "icono": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=91d77b188c42cee244e927782cf32413320312e7cf6944dff71f11ba103538af&exp=1782264752",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ABC TV",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(h3vPO9bKA1g2Hb_McaNWxu-Jlap1VdbN_9EyXRgmqEYXAWIm2XRtIIZkKDOVxJYYZXi-AWBJ_ltwf4wiVmjzo-8pO80fc-uRJArbTxGKdGfmffHLtRwLdOEgLD_DP2ve)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://www.abc.com.py/tv/",
+        "headers": {
+          "Origin": "https://www.abc.com.py/tv/",
+          "Referer": "https://www.abc.com.py/tv/",
+          "User-Agent": ""
+        }
       },
       {
         "name": "ÑANDUTI TV HD",
