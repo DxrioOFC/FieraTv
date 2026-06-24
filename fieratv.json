@@ -41,6 +41,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
+        "name": "POPU TV",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1223255119.m3u8?k=276049ff2ca7cd2b6d42a1be1e83eac5e023b61eb823be4dff91c68bae5d5e8b&exp=1782338220",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "UNICANAL HD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(05YpdLdcxHUUYKmBlR_puFtDxorjm1oQwIim3-4Q4Ss9D8tvvNlazuXsG9LXpVmmhW4S5dFZBRxBHpS0_56ptNdl_fieasyqTyF-N4qfcbemBGgVNgQCB7VF31uK51-e)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
@@ -223,13 +230,6 @@
           "Referer": "https://nanduti.com.py/",
           "User-Agent": "https://nanduti.com.py/"
         }
-      },
-      {
-        "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1651010792.m3u8?k=62c771945a85233d00da0071c307cd97602401d2f6182a0ae9bb918abfdbfe2b&exp=1782314204",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       },
       {
         "name": "C9N",
