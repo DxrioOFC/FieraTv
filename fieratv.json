@@ -391,6 +391,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "FUENTE PY",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/fuentetvhd/chunks.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/2002/7cMrIR.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "SUCESO TV",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img924/5665/h1tF3r.png",
