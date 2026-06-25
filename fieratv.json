@@ -31,6 +31,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "GEN FULL HD",
+        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "APF TV",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/9145/H7MmGO.png",
