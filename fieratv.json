@@ -114,6 +114,13 @@
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TRECE SD 2",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(v_avNNMvJMS6m-J0lJSI7jb1RmhdItZptEWo38v0T_jxlmjLQGzU7pzjk3Fs9kvukhtWTu4NJP7U6oI4kX3YwPyWRw6YVLXX2kiWIVndBJfy2KcqFSJpkwoQ-xSdtN-7)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
