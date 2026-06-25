@@ -210,15 +210,8 @@
         "drm_license_uri": ""
       },
       {
-        "name": "SNT HD",
-        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ABC TV",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(ctET9wmeXXg8kbVSWl9fexLnU2dfedb8s4Cws_bAv_vjlkSJpJ-T2Fr-V7pH16H3KTKx-vXh32cLaSVDxe2kSlmjHPpW_pRt4qHpRSXf4Bsr3izdDXjgdpRypfVIlnQA)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1b",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(HfSoQt7TjZSIr0osaw7WFNPI5ebH8CBvtwzIEi4hVjtCbk3Wlq01QA5iIdnSR8IIW6WTs9UXDsOb1N13WkPKtXDpdrhnYcdUD3oEwhw8a7Wq1ffzu5rhdRpngFyPjgw2)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://www.abc.com.py/tv/",
@@ -227,6 +220,13 @@
           "Referer": "https://www.abc.com.py/tv/",
           "User-Agent": ""
         }
+      },
+      {
+        "name": "SNT HD",
+        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "GEN HD",
