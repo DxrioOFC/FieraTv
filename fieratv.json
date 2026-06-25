@@ -70,7 +70,7 @@
       },
       {
         "name": "POPU TV",
-        "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=948a8bbace519ba4c6c9463049cd224b46a60b7b3f71c17041cf30f09e9dd9a3&exp=1782403327",
+        "url": "1",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
