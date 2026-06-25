@@ -3,18 +3,18 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "TRECE HD 720p",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(gcgfNztzJsdFn324xqsGw8ZhbBmcQbMx9svV0u87WjCs8CvP05hP8PJg6_zbKRTMhnStgd4DDVJvtvrxgKGdIgeMO6syqMPfb5A2Qmjs75d_mrBmqchl8qCcA16uDiqE)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+      },
+      {
         "name": "APF TV",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/9145/H7MmGO.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(kKQbodKRERYEndcWEiMPrFdqbam8K--dP42WA11lsg7ixFVJH32MH1FJ6fTqiexQ0XxUCQu3k_0yNRcsLgVuBW1Xfir0QzV7YBGMtjOcWV0ECqXISz4vWaEjPLAsM5uT)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
         "name": "GEN HD",
