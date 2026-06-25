@@ -31,18 +31,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "UNICANAL HD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(GBbSwnnpbkdUmJFKWJBSXrBREw22-8GGd4wBSnc1zRYKP1AN5kCUWCpeQIgVaBh16KcLjNKV6jh8StP4KBF8gfw2EBtOmGUenHBrns3-ZHS1aFdEMBvOxpdaUo9FiVVl)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "UNICANAL SD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(6LQFF4cYydaBnEJsqvXfrn1HNK9vhUKaHGLC5kpvcthXiSDQPE2TIEkbStvvT9G8r0TeWr7wM4RSV-V6adw3fsoe8SAmRufnx8w9o-JA2CEkRTgPfkEuGrJHI-pBJQOM)/cloud/3/x9ko9z8/s/live-480.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
-        "name": "UNICANAL HD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(a9DWDEqbFn0FiLt_pluSB4TpCA5lkf5x2PKzaG8GHP7V-OZwSg_EeJ2kBcn3PdSnHUdJz6eEvq3RPaiIyLYCVJGDkRQDWg6SiPMR0FzUR4q8Ib2aMZyQgDUhVq2kQvmU)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       },
       {
         "name": "GEN FULL HD",
