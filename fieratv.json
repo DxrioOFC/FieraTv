@@ -48,13 +48,6 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
-        "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1223255119.m3u8?k=276049ff2ca7cd2b6d42a1be1e83eac5e023b61eb823be4dff91c68bae5d5e8b&exp=1782338220",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "FIFA +",
         "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
         "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
@@ -66,6 +59,13 @@
         "url": "http://190.60.37.118:4000/play/a0bw",
         "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
         "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "POPU TV",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=0a02c48151f22a55e05cba7aacd23c36cfff974cd3d52d28126502127cd062aa&exp=1782379699",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
