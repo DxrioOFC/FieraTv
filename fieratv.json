@@ -3,6 +3,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "TRECE HD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(nNNAS0sn6V10rI6QOsk4ZmDFnlgLjlEJNBF3XXHqWLX2Mho8TnKp3qb3oiZ5OM1fWIdS8gfv0g4pQSWFxyqu8t4w_1FEz_0jD-aOwqTQcfXVKvguiRKMwmmBPxzqjBpi)/cloud/3/x9ksaba/s/live-720.m3u8",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "UNICANAL HD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(xeCecD8pLxW3VQByUlT7zDCQv6yuLUUzKaB3jWEa4bJ6lV8_XIRkyWgMo9Mp20p3ujya0CSJrdYEXSyHzpOaO2FyfozZpAPThWDsMUIAggSv7ijzMZYih47CcYDddtef)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
@@ -21,13 +28,6 @@
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/9145/H7MmGO.png",
         "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(YIyd1lZZVzf20xZ7Px14-7CfVuCt9tpFECZ34TodPkZk8rRe_QrW6Y1KeLiJrMRJ9RpGbCVzNhPSCS8V_7x5PPGhEYaEblGRyRglcuh7nNY7M_L0-NSKgquMpYcH7cv0)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
-        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
