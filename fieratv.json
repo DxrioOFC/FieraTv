@@ -253,6 +253,13 @@
         }
       },
       {
+        "name": "POPU TV",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=fe39fef93fe404cc28c694c730cc655b045e34e8cce1d8dbe1b00f41a70c3011&exp=1782507626",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ÑANDUTI TV HD",
         "url": "https://nanduti.b-cdn.net/720p.m3u8",
         "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
@@ -290,13 +297,6 @@
         "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
         "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1478211623.m3u8?k=918ea2ace7b3ee695ca26cceb0b3554d6899d697478b3b1c4a76f30eb50c82f3&exp=1782484538",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
-        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
