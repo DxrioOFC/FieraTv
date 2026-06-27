@@ -208,13 +208,6 @@
         "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 4",
-        "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljk1LjEwMA==/23_.m3u8?token=q49xbWt74Cz2IAiNPacfJg&expires=1782608182",
-        "icono": "https://imagizer.imageshack.com/img922/3184/GB9KEN.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
