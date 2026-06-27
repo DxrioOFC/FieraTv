@@ -870,6 +870,13 @@
         "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "LATINA  PERÚ",
+        "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+        "icono": "https://graph.facebook.com/Latina.pe/picture?width=200&height=200",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
