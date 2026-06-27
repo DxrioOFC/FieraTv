@@ -90,13 +90,6 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
-        "name": "TRECE SD 2",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(qksisoftimcKGS8oYdVh3Lbr2cyDNQAgFxUzHug37aQZXobNoN1IloUwk25OmTLw41skhFLeyjBv7t5KuR82Fbec2SOSfUWFXvKO1rSXBoOpJhqzkBJwNPv8Tt0XyDwr)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "GEN SD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-GEN.png",
