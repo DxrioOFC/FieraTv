@@ -215,8 +215,15 @@
     "name": "PARAGUAY 🇵🇾",
     "samples": [
       {
+        "name": "TELEFUTURO",
+        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ABC TV",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(FHS1XGf4tIh7SCpfQnIytrtMZszQ10ncatplQqmEHTfBTY1NFSM6zQk4acGueLsbc_cV1u5xeXlcaPJMOFlE7JOGrkr0aKn3MyN6zK07M4fm439RzQ0LfJRSH1obx7O5)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(bxGwBWa3biK0h_AWU9Km8hlqYhJoc4l65_9psdyPjiLtKORNb-97Sp6CEuVQmbxYbxxvLhKfvMP7pACwlMuIG_ymkG-nED_2WYxcxvxGJoFhLAHyjhqI6DgfQNuTnzV6)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://www.abc.com.py/tv/",
@@ -225,13 +232,6 @@
           "Referer": "https://www.abc.com.py/tv/",
           "User-Agent": ""
         }
-      },
-      {
-        "name": "TELEFUTURO",
-        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "SNT HD",
