@@ -208,6 +208,13 @@
         "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "REAL MADRID TV",
+        "url": "https://d3stzm2eumvgb4.cloudfront.net/ba8ab1a95fee9f498de2_realmadrid_316962006498_1781341100/chunked/index-dvr.m3u8",
+        "icono": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
