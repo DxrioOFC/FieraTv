@@ -253,13 +253,6 @@
         }
       },
       {
-        "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?k=fe39fef93fe404cc28c694c730cc655b045e34e8cce1d8dbe1b00f41a70c3011&exp=1782507626",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ÑANDUTI TV HD",
         "url": "https://nanduti.b-cdn.net/720p.m3u8",
         "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
@@ -270,6 +263,13 @@
           "Referer": "https://nanduti.com.py/",
           "User-Agent": "https://nanduti.com.py/"
         }
+      },
+      {
+        "name": "POPU TV",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1611554593.m3u8?k=fd3b495dcf300a08053ec6379e39119005110831752fada929b1fddca6f687f6&exp=1782546687",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       },
       {
         "name": "C9N",
