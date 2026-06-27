@@ -720,6 +720,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "CNN INTERMNAIONAL",
+        "url": "https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8",
+        "icono": "https://graph.facebook.com/cnninternational/picture?width=320&height=320",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "BOLIVIA TV",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(T1GTB6DdePqwCyaP-Xa5WdkRHH94x09c8jUa-eYtAPJbgfsEJGIzP991MWMHyaL1Sxwr_hFnNKhNeVLoQF3CGMC6EJnPFo3uB5Ta_3nFWFSHWy-BUIc2N207gIRIun6j)/cloud/3/x9nzqpo/d/live-380.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://imagizer.imageshack.com/img923/6564/N2LeFy.jpg",
