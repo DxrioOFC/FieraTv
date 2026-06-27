@@ -251,13 +251,6 @@
         }
       },
       {
-        "name": "POPU TV",
-        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1611554593.m3u8?k=fd3b495dcf300a08053ec6379e39119005110831752fada929b1fddca6f687f6&exp=1782546687",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "C9N",
         "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
@@ -269,6 +262,13 @@
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aZyMKcbwmT9kBzrttyJQSb",
         "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
         "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "POPU TV",
+        "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w808036086.m3u8?k=44c32e50bda3672ec3b02ba37df2246f50625397be418f94ffd8e7c414a5887d&exp=1782574510",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
