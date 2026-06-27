@@ -1556,6 +1556,13 @@
         "icono": "https://graph.facebook.com/solidariatv/picture?width=200&height=200",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RTV VIDA",
+        "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+        "icono": "https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
