@@ -3,16 +3,16 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(xT1ZkYcGXuMnDUZRk8GXQd6kUa8zPaCJ7ONel2B9iCo1wu_g-03MSB7jRLTh2gtPr5DYW2xiRWvsoWGrELFdYwRxFCDQSQ0VJ0sYSqF4WXhDXVvz9nyPImfXCHemKE78)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
+        "name": "UNICANAL HD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(KbwC4Q9aJzHxapAxApoj9ek2jJOL-wXcLR2i_qpZXy0hMVXpYaViSudzEi0xmG1wkvh511cGCvh3u3T0mbqHCYi5PepgkBRzXcR7oGIunsH3SAvy91J35qwK19-iWNvv)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
-        "name": "UNICANAL HD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(KbwC4Q9aJzHxapAxApoj9ek2jJOL-wXcLR2i_qpZXy0hMVXpYaViSudzEi0xmG1wkvh511cGCvh3u3T0mbqHCYi5PepgkBRzXcR7oGIunsH3SAvy91J35qwK19-iWNvv)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-UNICANAL.png",
+        "name": "TRECE HD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(BsDssLt_LIUK6eFa6KeM8oElm82yTIElxlVLThErQkvrxrRYUivh7XaT6jWrXgAYznmdWEsdGAzMmvJ-xEPigKGWbTKIiFMPClL7SrZD19BbnNgxQKOyqKxiRNG73v-i)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
