@@ -877,6 +877,13 @@
         "icono": "https://graph.facebook.com/Latina.pe/picture?width=200&height=200",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MIAMI GOLD",
+        "url": "https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8",
+        "icono": "https://commons.wikimedia.org/wiki/File:Miami_tv.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
