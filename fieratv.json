@@ -140,6 +140,13 @@
     "name": "DEPORTES PREMIUM 🏆",
     "samples": [
       {
+        "name": "ESPN",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/7548/aRwutP.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FOX SPORTS",
         "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/9356/8Ke1xn.png",
@@ -157,13 +164,6 @@
         "name": "ESPN 2",
         "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljk1LjEwMA==/14_.m3u8?token=tQ7mYqrUqpsncCrOx_bYAA&expires=1782608464",
         "icono": "https://imagizer.imageshack.com/img923/7798/lIoTTI.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN",
-        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/7548/aRwutP.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
