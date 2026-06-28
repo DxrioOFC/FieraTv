@@ -342,18 +342,18 @@
         "drm_license_uri": ""
       },
       {
-        "name": "ROCK & POP TV",
-        "url": "https://rockandpop.b-cdn.net/720p.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "MEGA TV",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
         "type": "HLS",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80"
+      },
+      {
+        "name": "ROCK & POP TV",
+        "url": "https://rockandpop.b-cdn.net/720p.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "POPU TV",
