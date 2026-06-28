@@ -389,13 +389,6 @@
     "name": "PARAGUAY 🇵🇾 INTERIORES",
     "samples": [
       {
-        "name": "NOVA FM TV",
-        "url": "https://tvdatta.com:3012/live/novalive.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/6966/dUX227.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "OVIEDO TV",
         "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/9273/dYa6fH.jpg",
@@ -643,7 +636,15 @@
   },
   {
     "name": "PARAGUAY 🇵🇾 INTERIORES 2",
-    "samples": []
+    "samples": [
+      {
+        "name": "NOVA FM TV",
+        "url": "https://tvdatta.com:3012/live/novalive.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/6966/dUX227.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "INFANTILES",
