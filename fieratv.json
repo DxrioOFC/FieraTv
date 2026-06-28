@@ -335,6 +335,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "REPUBLICA TV",
+        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1506353840.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ROCK & POP TV",
         "url": "https://rockandpop.b-cdn.net/720p.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
@@ -367,13 +374,6 @@
         "url": "https://zn1gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist_w1222355681.m3u8?k=f962fb7f8367a5c7b4a4bdd0ec7999e925675e2ad343f61e440ba54f7b4ee144&exp=1782652530",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-POPU.png",
         "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "REPUBLICA TV",
-        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1506353840.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
-        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
