@@ -243,6 +243,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "NPY HD",
+        "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ABC TV",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(HYrgBFwejdxRQ-p8Eze8umSib2cTnWa-Us8z_EyE2k3Cw0NlbrUptOIt0WjobrtK3wOSRU01jO_jqpraIMJz0DTZSLgFqmJFVMZ_8PdCvKEeepP7Z3TdzKRiIv1pCZsS)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
@@ -277,13 +284,6 @@
         "name": "PARAGUAY TV",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aZyMKcbwmT9kBzrttyJQSb",
         "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "NPY HD",
-        "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
