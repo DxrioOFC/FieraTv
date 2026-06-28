@@ -530,13 +530,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "GUAIRA TV",
-        "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/8235/BwHkY3.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "RED CHAQUEÑA TV",
         "url": "https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/chunklist_w1806818819.m3u8",
         "icono": "https://imagizer.imageshack.com/img924/4703/3lly0P.jpg",
@@ -641,6 +634,13 @@
         "name": "TELE QUINCE",
         "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/9527/21IUqv.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "GUAIRA TV",
+        "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/8235/BwHkY3.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
