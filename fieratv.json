@@ -323,13 +323,6 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80"
       },
       {
-        "name": "E40",
-        "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "UNION TV",
         "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
@@ -380,6 +373,13 @@
         "name": "ROCK & POP TV",
         "url": "https://rockandpop.b-cdn.net/720p.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "E40",
+        "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
