@@ -669,6 +669,13 @@
         "icono": "https://imagizer.imageshack.com/img923/1707/y8EUe3.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RETRO CARTOONS",
+        "url": "https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8?hls_ctx=476x981i",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
