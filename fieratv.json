@@ -429,6 +429,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "DISMAR TV",
+        "url": "https://copacogen.desdeparaguay.net/dismartv/dismartv/chunklist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/573/ZJAPK9.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://desdeparaguay.net",
+        "headers": {
+          "Origin": "https://desdeparaguay.net",
+          "Referer": "https://desdeparaguay.net",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "PRODUCTIVA TV",
         "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_alta/chunklist_w1649940634.m3u8?admin=nacion",
         "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
@@ -497,18 +509,6 @@
         "icono": "https://imagizer.imageshack.com/img923/9765/mZQ4ZB.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "DISMAR TV",
-        "url": "https://copacogen.desdeparaguay.net/dismartv/dismartv/chunklist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/573/ZJAPK9.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://desdeparaguay.net",
-        "headers": {
-          "Origin": "https://desdeparaguay.net",
-          "Referer": "https://desdeparaguay.net",
-          "User-Agent": ""
-        }
       },
       {
         "name": "UGA TV",
