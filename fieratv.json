@@ -424,13 +424,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "ÑANDE PORTETEPE",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/938/yjFtlY.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "RNDP",
         "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=7kLvn5YsK4RDQzHn8sSyeB",
         "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
@@ -620,6 +613,13 @@
         "name": "VISIÓN TV",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ÑANDE PORTETEPE",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/938/yjFtlY.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
