@@ -643,13 +643,6 @@
     "name": "INFANTILES",
     "samples": [
       {
-        "name": "CARTOON NETWORK",
-        "url": "https://regionales.saohgdasregions.fun:9092/MTgxLjc4Ljk1LjEwMA==/31_.m3u8?token=Bho3CiSEsrUz2JJhI35WUg&expires=1782619931",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TOONAST",
         "url": "https://regionales.saohgdasregions.fun:9092/MTgxLjc4Ljk1LjEwMA==/32_.m3u8?token=jTZhTOxY1c-iLnvWWLkRWg&expires=1782619987",
         "icono": "",
