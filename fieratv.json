@@ -309,13 +309,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "ROCK & POP",
-        "url": "https://rockandpop.b-cdn.net/480p.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "MEGA TV",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
@@ -380,6 +373,13 @@
         "name": "E40",
         "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ROCK & POP",
+        "url": "https://rockandpop.b-cdn.net/480p.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
