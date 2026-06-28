@@ -396,6 +396,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "RCC TV",
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/chunklist_w1409050183.m3u8?admin=nacion",
+        "icono": "https://imagizer.imageshack.com/img924/4703/3lly0P.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "COSMOS TV",
         "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
         "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
@@ -406,13 +413,6 @@
         "name": "TV CONCEPCIÓN",
         "url": "https://cloudtv.streaming.com.py/concepciontv/concepciontv/chunklist_w1285485867.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/73/GvYXuq.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "RCC TV",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/chunklist_w1409050183.m3u8?admin=nacion",
-        "icono": "https://imagizer.imageshack.com/img924/4703/3lly0P.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
