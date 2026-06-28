@@ -589,6 +589,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "SUCESO TV",
+        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/5665/h1tF3r.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "VISIÓN TV",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
@@ -606,13 +613,6 @@
         "name": "CANAL 8 CAAGUAZÚ",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/6871/pgW3xV.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "SUCESO TV",
-        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img924/5665/h1tF3r.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
