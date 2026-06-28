@@ -1816,6 +1816,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RETRO PLUS",
+        "url": "https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w925996447.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
