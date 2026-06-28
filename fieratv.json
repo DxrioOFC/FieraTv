@@ -480,13 +480,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "TELE QUINCE",
-        "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/9527/21IUqv.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ALT MEDIA",
         "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/9765/mZQ4ZB.jpg",
@@ -641,6 +634,13 @@
         "name": "NOVA FM TV",
         "url": "https://tvdatta.com:3012/live/novalive.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/6966/dUX227.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TELE QUINCE",
+        "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/9527/21IUqv.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
