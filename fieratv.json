@@ -573,19 +573,19 @@
         "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-        "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
   {
     "name": "PARAGUAY INTERIORES 🇵🇾",
     "samples": [
+      {
+        "name": "OVIEDO TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
       {
         "name": "DEL REY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
