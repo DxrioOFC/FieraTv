@@ -69,18 +69,18 @@
     "name": "MUNDIAL CON NTERNET LENTO",
     "samples": [
       {
+        "name": "UNICANAL SD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(p8koCYBng_dqu17IQMpoyJTWXb8_K9nxPRZgxOJ3_7VYjF4jBxF8uexTvkKCf28e3Th1SlsAc47yKLT6xlOKO9fgMK-WPFDJIYSBZQvbqD3XO1d8588B6QMdn3nnFoNk)/cloud/3/x9ko9z8/s/live-480.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TRECE SD",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(rbpmk_y8kXVy-E-YRnLqyR5Mtdy7WR3pQLx5He4149G8uc9PE6Id4i7FiMV-Q73Ld9r2EhKgP00i8jlBAkE-jKnwL9x6-6DaOw0BWreLUrinvngE-3q4w31Vi65DOv_u)/cloud/3/x9ksaba/s/live-480.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
-      },
-      {
-        "name": "UNICANAL SD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(munZUlhlhSDhX899w03D6QOqMjotP-QskMs4MgGDLqnB8tPb12Hjb-OGevfNwxRiSx9Yq2ldKVF2Xccjd7TephbMobWvm8EJAWTWx6jQYKmO2S8PYC4ptttwKWHLogsa)/cloud/3/x9ko9z8/s/live-480.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       },
       {
         "name": "GEN SD",
