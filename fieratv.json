@@ -1448,18 +1448,6 @@
         }
       },
       {
-        "name": "EUROSPORT 1",
-        "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-        "icono": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_1_HD._SL170_FMpng_.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "EUROSPORT 2",
         "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
         "icono": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_2_HD_GB._SL170_FMpng_.png",
@@ -1560,6 +1548,18 @@
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5fc8da8b94c447468ffe392157f8c75e&key=333b934fdde4c1ee87e7f1c5dac4cb8f",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "EUROSPORT 1",
+        "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
+        "icono": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_1_HD._SL170_FMpng_.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
