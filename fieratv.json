@@ -676,6 +676,13 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PITUFO TV",
+        "url": "https://stream.ads.ottera.tv/cl/260628d90jvrm99ags73ag4lq0/640x360_1126400_3_f.m3u8?i=475_4211",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b22af84bdf817ed88a396951cda5988b.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
