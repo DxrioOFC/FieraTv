@@ -226,12 +226,7 @@
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(HYrgBFwejdxRQ-p8Eze8umSib2cTnWa-Us8z_EyE2k3Cw0NlbrUptOIt0WjobrtK3wOSRU01jO_jqpraIMJz0DTZSLgFqmJFVMZ_8PdCvKEeepP7Z3TdzKRiIv1pCZsS)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://www.abc.com.py/tv/",
-        "headers": {
-          "Origin": "https://www.abc.com.py/tv/",
-          "Referer": "https://www.abc.com.py/tv/",
-          "User-Agent": ""
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "TELEFUTURO",
