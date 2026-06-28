@@ -587,6 +587,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TV MAX",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DEL REY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
@@ -611,13 +618,6 @@
         "name": "VISIÓN TV VILLARICA",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "5 TV MAX",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
