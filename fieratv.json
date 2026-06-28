@@ -330,13 +330,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "HEI",
-        "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "GO TV",
         "url": "https://rds3.desdeparaguay.net/gotv/gotv/chunklist_w957359876.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/5273/WpMo25.png",
@@ -382,6 +375,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
         "type": "HLS",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80"
+      },
+      {
+        "name": "HEI",
+        "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
