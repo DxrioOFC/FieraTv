@@ -1266,6 +1266,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FOZ DO IGUZU",
+        "url": "https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w2112817403.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
