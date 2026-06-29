@@ -340,18 +340,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "MEGA TV  PY",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "FARRA PLAY",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/farra_src.m3u8",
         "type": "CLEARKEY",
@@ -437,6 +425,18 @@
         "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MEGA TV",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
