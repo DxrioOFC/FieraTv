@@ -1268,6 +1268,13 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "REDE TV MAIS",
+        "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/chunklist.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
