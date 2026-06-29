@@ -603,6 +603,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TVA OVIEDO",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DEL REY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
@@ -620,13 +627,6 @@
         "name": "COLMENAR TV",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TVA OVIEDO",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
