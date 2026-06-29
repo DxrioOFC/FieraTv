@@ -1198,6 +1198,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SFT COMBATE",
+        "url": "https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuLAT8ykGrAdcNkCPARfDxKsycu5-zAFrYWA6wHr2NHji9qdY6lyvkFA&s=10",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
