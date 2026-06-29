@@ -1362,9 +1362,9 @@
       },
       {
         "name": "TEL AVIV MARINA",
-        "url": "https://edge01.balticlivecam.com/blc/Israel1/tracks-v1/mono.ts.m3u8?",
+        "url": "https://edge01.balticlivecam.com/blc/Israel1/index.m3u8?token=ad3fc860705fcd466ff9c101a91d187d:1782745293427",
         "icono": "",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
