@@ -1247,6 +1247,13 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CINE FREE",
+        "url": "https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/37d682a2-59e4-4239-8c3c-7aef049ec317/0.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
