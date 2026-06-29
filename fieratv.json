@@ -902,13 +902,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Makkah 🇸🇦",
-        "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/live/vsat-150H/chunks.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/5412/e1Tu3J.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TELESUR VENEZUELA",
         "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/2194/0f3qoF.jpg",
