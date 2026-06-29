@@ -1301,6 +1301,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MURO DE LOS LAMENTOS",
+        "url": "https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/23595/Live_Kotel3_12SP/chunks.m3u8?nimblesessionid=19573812",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
