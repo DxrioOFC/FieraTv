@@ -1254,6 +1254,13 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TOP MIX",
+        "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
