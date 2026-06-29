@@ -762,6 +762,13 @@
         "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t39.30808-6/278013775_406343084827929_8497763086003058213_n.jpg?stp=dst-jpg_tt6&cstp=mx960x839&ctp=s960x839&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zud-R53-SgUQ7kNvwE-6bpQ&_nc_oc=AdqZWvLTDTWzv3VisYj9KXX756Tr9CGuOpl_gL5sry3tCyRw1vMOBp138RgDL2ytAqw&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=fRotko6LLGqb66qGy8gRAA&_nc_ss=7b2a8&oh=00_Af_n7AM4m16qtNVW33herzzka4sOu_uM9Y-Znu6AMko7Qg&oe=6A47C101",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CONCEPCION TV",
+        "url": "https://cloudtv.streaming.com.py/concepciontv/concepciontv/chunklist_w53777888.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/73/GvYXuq.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
