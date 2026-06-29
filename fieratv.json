@@ -720,6 +720,13 @@
         "icono": "https://imagizer.imageshack.com/img922/9527/21IUqv.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "OASIS TV",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/288/1Eg31e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
