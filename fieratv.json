@@ -804,6 +804,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "RT ESPAÑOL",
+        "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/120/XtzYw1.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "LA 1",
         "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?idasset=1688877",
         "icono": "https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",
@@ -863,13 +870,6 @@
         "name": "LOVE NATURE",
         "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "RT ESPAÑOL",
-        "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/120/XtzYw1.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
