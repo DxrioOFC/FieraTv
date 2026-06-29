@@ -727,6 +727,13 @@
         "icono": "https://imagizer.imageshack.com/img924/288/1Eg31e.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ALMAYA HD",
+        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/2870/NiqbHi.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
