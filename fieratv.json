@@ -713,6 +713,13 @@
         "icono": "https://imagizer.imageshack.com/img923/8661/ZmumST.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TELE QUINCE",
+        "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/9527/21IUqv.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
