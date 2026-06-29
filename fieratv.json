@@ -1198,6 +1198,13 @@
     "name": "CAMARAS EN VIVO",
     "samples": [
       {
+        "name": "GINO PARADISE - ESLOVAQUIA",
+        "url": "https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist_w1699393130.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TEL AVIV",
         "url": "https://edge01.balticlivecam.com/blc/Israel1/tracks-v1/mono.ts.m3u8",
         "icono": "",
