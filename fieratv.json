@@ -266,6 +266,18 @@
         }
       },
       {
+        "name": "NPY",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "AMERICA TV PY",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
         "icono": "https://i.ibb.co/nqLSGRzs/R.png",
@@ -372,18 +384,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "NOTICIAS_PY  ",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
