@@ -996,6 +996,13 @@
         "icono": "https://commons.wikimedia.org/wiki/File:Miami_tv.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AL ARABIYA 🇸🇦",
+        "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/1496/PvGU3n.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
