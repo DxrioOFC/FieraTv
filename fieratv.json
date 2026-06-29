@@ -377,13 +377,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "VISIÓN TV VILLARICA",
-        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
-        "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "MEGA TV",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
@@ -597,6 +590,13 @@
         "name": "TVA OVIEDO",
         "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "VISIÓN TV VILLARICA",
+        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+        "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
