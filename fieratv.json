@@ -982,13 +982,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SP2-JjALJTS_qTH5Pbk_cdK9cGDCLKtwWIvV-4oVJQ&s=10",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "AL ARABIYA 🇸🇦",
-        "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/1496/PvGU3n.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
