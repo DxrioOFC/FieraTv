@@ -1167,6 +1167,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "RECORD",
+        "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "BAND ",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
@@ -1193,18 +1200,6 @@
         "icono": "https://imagizer.imageshack.com/img922/9618/cxiMDm.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "RECORD",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyOTEyNjAzIiwic2lwIjoiMTgxLjEyNC4xMzIuMTc4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZjVlY2MyNDgxZDM0NzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.INHI15prOXGdZndRIT69xv1RJplI2j4ns4T1AewDl6wM1piW13ENrVMTmvf0ffjt2jeiA9bztvbARH3UkGjyBQ==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=b0bd8ea11b3f4c219903085ef1d44b0d&key=9a25709a72c2ca93cb738665736cfa5a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "SFT COMBATE",
