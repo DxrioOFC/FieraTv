@@ -811,6 +811,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "DW ALEMANIA",
+        "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "LA 1",
         "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?idasset=1688877",
         "icono": "https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",
@@ -966,13 +973,6 @@
         "name": "EXTREMADURA",
         "url": "https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/1080p_5M_25fps_aac_128k.m3u8",
         "icono": "https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "DW ALEMANIA",
-        "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-        "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
         "type": "HLS",
         "drm_license_uri": ""
       },
