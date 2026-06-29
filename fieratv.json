@@ -1245,6 +1245,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TEL AVIV MARINA",
+        "url": "https://edge01.balticlivecam.com/blc/Israel1/tracks-v1/mono.ts.m3u8?",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
