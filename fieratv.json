@@ -77,10 +77,10 @@
     "samples": [
       {
         "name": "TRECE SD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(oEOlbaBhJMKrjyUB7rVILN_2Tzociq_B18IKbIlGs1vS8BSZORiGquetqeLz1wNShTzOKmgFQ_u6Wnm5SMkVHBrvjKLQ_pijZMO6_lkG9f-ZpezGWAYHDM9euU0_ASc_)/cloud/3/x9ksaba/s/live-480.m3u8#cell=lcf2-eu-north-1a",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(nn17A1dGK6UpI9ehflwTeIw8CFPXNAijM8ya4x_1u0tcKFrnEozmvJ3Lq7kG2wY1q2dzCFtrd6kso5W2Ud2kkCjU8MyEKd8sRG6qFAMR6EVxVMlp2i5WC3ZzEogxvKzo)/cloud/3/x9ksaba/s/live-480.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+        "drm_license_uri": ""
       },
       {
         "name": "UNICANAL SD",
