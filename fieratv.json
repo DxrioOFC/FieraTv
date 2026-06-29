@@ -114,6 +114,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "FIERA HD 2",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "WIZZI TV",
         "url": "http://167.71.169.4/hls/wizzitv.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/223/QiEK5I.png",
@@ -124,13 +131,6 @@
         "name": "RED DIGITAL",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
         "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS HD",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
