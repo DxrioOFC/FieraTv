@@ -1222,9 +1222,9 @@
       },
       {
         "name": "CINE PIX",
-        "url": "https://stream.ads.ottera.tv/cl/260629d910svv56tvc73bgpm70/848x480_1686360_2_f.m3u8?i=728_6178",
+        "url": "https://stream.ads.ottera.tv/cl/260629d910svv56tvc73bgpm70/848x480_1686360_2_f.m3u8",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840254a95bac6a1f369b4d9641ef4dfa.webp",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
