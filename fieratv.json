@@ -1226,6 +1226,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "PARIS RIVER SINE",
+        "url": "https://cdn-orange.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/media_0.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "NISI BEACH - NAPA",
         "url": "https://lon.rtsp.me/CJpy3SwIzzsGQ4PZnttwPA/1782712610/hls/8ti66TZ6.m3u8?ip=181.78.95.100",
         "icono": "",
