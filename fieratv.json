@@ -1207,13 +1207,6 @@
         }
       },
       {
-        "name": "OPACABANA",
-        "url": "https://rr1---sn-04poxu-5n0e.googlevideo.com/videoplayback?expire=1782729787&ei=2_dBavu4MpaKwrcPyLK8uAQ&ip=181.78.95.100&id=JkV7OxgG27U.1&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1782708187%2C&mh=RW&mm=44%2C29&mn=sn-04poxu-5n0e%2Csn-bg0s7ns7&ms=lva%2Crdu&mv=m&mvi=1&pl=24&rms=lva%2Clva&initcwndbps=1198750&siu=1&spc=SQ-umlPwmn5m-yl0zW_Zyn7uBX9B1G0tlvIRiA9xtaskD0zyXM2g&live=1&hang=1&noclen=1&svpuc=1&ns=1NcS7PORFMeSY6CYtgE_7WEW&sabr=1&rqh=1&reg=0&mt=1782707798&fvip=4&keepalive=yes&fexp=51565116%2C51565682%2C52017147&c=WEB_EMBEDDED_PLAYER&n=BdUnPBIxEWrNaQ&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cspc%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cns%2Csabr%2Crqh%2Creg&sig=AHEqNM4wRgIhALaI4fEGsxgx-cxFJelDWa12-nRI8jOJr9PZmJHGqT13AiEA9UUvdeoCVIjvDoDBYT_CxOPVhn3PyCLzAYxv4XZMdZc%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgdmj91DTJsQPfPNwWNYx55jWqL-EXZEIZsvJhKe3dazUCIQCBQsG8Us64sJZ_bPPXqyV7ZichyPFTMvaylAiT0yw0tw%3D%3D&cpn=GTh9qmhsQH2LhCBA&cver=2.20260626.01.00&rn=116&alr=yes",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "SFT COMBATE",
         "url": "https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuLAT8ykGrAdcNkCPARfDxKsycu5-zAFrYWA6wHr2NHji9qdY6lyvkFA&s=10",
