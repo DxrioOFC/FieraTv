@@ -1306,7 +1306,7 @@
       },
       {
         "name": "TEL AVIV",
-        "url": "https://edge01.balticlivecam.com/blc/Israel1/tracks-v1/mono.ts.m3u8",
+        "url": "https://edge01.balticlivecam.com/blc/Israel1/index.m3u8?token=a15fd312b6ff0ff85eb06a6fe7224974:1782745374180",
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
