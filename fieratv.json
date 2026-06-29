@@ -511,6 +511,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "VENUS MEDIA",
+        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/2205/Y6CnVw.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "POPU TV",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODc1OTE0Iiwic2lwIjoiMTgxLjEyNC4xMzUuNjgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMmEyN2I4YmM5MTgyYTU5MSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.LZXUy7UPdpBgbXcsMwIgnDxL6bDHRwx5h6RRpepxYq7ArD3H-FkZ4Q2fEW0_C2PZIIMe6jVtOl4YQp9eWjks7w==/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
