@@ -825,6 +825,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "24 HORAS",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+        "icono": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DW ALEMANIA",
         "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
         "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
@@ -952,13 +959,6 @@
         "name": "EL PAIS",
         "url": "https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8",
         "icono": "https://graph.facebook.com/elpais/picture?width=200&height=200",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "24 HORAS",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-        "icono": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
