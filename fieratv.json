@@ -748,6 +748,13 @@
         "icono": "https://imagizer.imageshack.com/img924/17/BYnppn.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RB TV",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+        "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t39.30808-6/589718980_122223161342045946_5506211926313113854_n.jpg?stp=dst-jpg_tt6&cstp=mx1600x1600&ctp=s1600x1600&_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3C3MLP3Z15sQ7kNvwFPce2e&_nc_oc=AdqJJOFn6m1uw_jovxM4zfQ7cSfZyFe_Xw1c5i-XmfLw_4WG5Z4IqZ_HEtzL7eXk2yI&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=9mTqDdDRKHYfFwRPmUCCNg&_nc_ss=7b2a8&oh=00_Af9GFZ1UVZBspxB3n5qyN4XDllAsGM5zUC95CZfWp7eycQ&oe=6A47A93C",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
