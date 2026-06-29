@@ -3,6 +3,13 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "TRECE HD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(nn17A1dGK6UpI9ehflwTeIw8CFPXNAijM8ya4x_1u0tcKFrnEozmvJ3Lq7kG2wY1q2dzCFtrd6kso5W2Ud2kkCjU8MyEKd8sRG6qFAMR6EVxVMlp2i5WC3ZzEogxvKzo)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "UNICANAL HD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(iRToMt0pGdY15m0fswki7BzLQCAlj1OQ95w9D9PdhpkkWHdCbg0RxRobme_Il5Krc3FuZtXu6bR69TFqKXC9RgMxPqLrfZTOwkTHhtkFLxe5Xw1sR3rWdgmLqryop_09)/cloud/3/x9ko9z8/s/live-720.m3u8",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
@@ -13,13 +20,6 @@
         "name": "GEN FULL HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-GEN.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(oEOlbaBhJMKrjyUB7rVILN_2Tzociq_B18IKbIlGs1vS8BSZORiGquetqeLz1wNShTzOKmgFQ_u6Wnm5SMkVHBrvjKLQ_pijZMO6_lkG9f-ZpezGWAYHDM9euU0_ASc_)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
