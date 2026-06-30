@@ -101,7 +101,7 @@
     "samples": [
       {
         "name": "TRECE SD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Zl2LPuWibVIobnbT8c_dK-aA8PcO_eki1iYDlWQbdXTm4kiixX4S8vi7r-p1ZdlXRZk8nuJxqmSp-Mvsu635O86PmVGfOTEi9j0CM5YbViZxmFAJjauRsheltnvn7U8s)/cloud/3/x9ksaba/s/live-480.m3u8#cell=lcf2-eu-north-1a",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(JKTbedBWMDkNSt4RdQJB6GB0fbYjQnNf5Q7HKZYpbVLKd-7ZyB72uHrInQ0oh9CuQmZtEdlOvPmStiZgAg9vWqHc4Z7ALt9fkvDdtYhukU-SOKIRL5Id3I4FOLFoHWG9)/cloud/3/x9ksaba/s/live-480.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
