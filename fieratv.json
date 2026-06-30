@@ -100,16 +100,16 @@
     "name": "MUNDIAL CON NTERNET LENTO",
     "samples": [
       {
-        "name": "TRECE SD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-szt70suxUq2fg9REDWooCWc_8o6ewGkklGZI7PlyX0mIdf6ddkJbrNFcWd-dJR-YJoQHlvEc4i1wGYA8O1iTZt968OOrYR-CEV5Fqlkxs8IUUId4iM36KEod4eYtfDc)/cloud/3/x9ksaba/s/live-480.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
+        "name": "UNICANAL SD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(ddzZgACXA1qAOzrvM0b9fQfDUvtCNRn58FORtPkl9wNa34XPhgIHIKOSzSv38-Omh_IqSpl40KuYlkCH1UoCJ1fE1Ip-JhTkBWu8I4joAFLqR2hInJ9Ln1wvZDQIze_C)/cloud/3/x9ko9z8/s/live-480.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
-        "name": "UNICANAL SD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(erNSMl_4zNMaKNajRy-OtJGejCteg9l0zOx-YyQu_YBGHaT7iaBHIcqhGKbmBFJZqqHNBpepLQKns9RukJGWat2nwmufAQhiS0kEPTuNx3yJUYP93sjvrSWUQ7uS8xho)/cloud/3/x9ko9z8/s/live-480.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "name": "TRECE SD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(-szt70suxUq2fg9REDWooCWc_8o6ewGkklGZI7PlyX0mIdf6ddkJbrNFcWd-dJR-YJoQHlvEc4i1wGYA8O1iTZt968OOrYR-CEV5Fqlkxs8IUUId4iM36KEod4eYtfDc)/cloud/3/x9ksaba/s/live-480.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-trece.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
