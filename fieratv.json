@@ -27,11 +27,11 @@
         }
       },
       {
-        "name": "UNICANAL",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDc2Nzc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuNTYiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU1OTcyNzBhYzliNDM1NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.8aZNDWfad2hekQduqOUfKiQmkhDhKVaQ-aWpKzrV-VwnraIom908xaQ1hxMHyQzifVAUGxrN-KPYKGtZ1Wov5Q==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "name": "TRECE HD",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDc2Nzc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuNTYiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU1OTcyNzBhYzliNDM1NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.8aZNDWfad2hekQduqOUfKiQmkhDhKVaQ-aWpKzrV-VwnraIom908xaQ1hxMHyQzifVAUGxrN-KPYKGtZ1Wov5Q==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
@@ -39,11 +39,11 @@
         }
       },
       {
-        "name": "TRECE HD",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDc2Nzc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuNTYiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU1OTcyNzBhYzliNDM1NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.8aZNDWfad2hekQduqOUfKiQmkhDhKVaQ-aWpKzrV-VwnraIom908xaQ1hxMHyQzifVAUGxrN-KPYKGtZ1Wov5Q==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
+        "name": "UNICANAL HD",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDc2Nzc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuNTYiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU1OTcyNzBhYzliNDM1NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.8aZNDWfad2hekQduqOUfKiQmkhDhKVaQ-aWpKzrV-VwnraIom908xaQ1hxMHyQzifVAUGxrN-KPYKGtZ1Wov5Q==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
