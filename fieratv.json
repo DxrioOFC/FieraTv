@@ -3,11 +3,11 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "UNICANAL SD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Uqht91tjRbyn_Qiic8NzSpQl2ZPdve_u_5pGfnwGzwQqQnIojBRRzDdtgcLCzwKJE5MBFiVdhp7Ux52-HqAWjJ1Ktmu8d1zNVG6Y1WfLkx55W2SmgFIDxUruu7HK7-OBB192_NLun3NQWfJ_wozvYw)/cloud/3/xak2lou/s/live-480.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
+        "name": "TRECE SD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(XQIVNle1wg_EDvLNNchRYRCp7WWKbJu5hSGZ3wTCNuibekITLC9AIe8D95-whnFg7skkhU2d9TOE566NaBQ_tpaqp_xbQ2du2DwM_oiFAO4bbkf1C0-h-hlTpz_dLPrjZNjRdP5iZi9Hgs7BYB5dxA)/cloud/3/xak2neu/s/live-480.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
+        "type": "HLS",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
@@ -15,11 +15,11 @@
         }
       },
       {
-        "name": "TRECE SD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(729zu5_F7wgOQHxzfnKnntNverkJUtf0aXmez59R0dPFyKXOrTzalZAIreQJkS8Dp6aQ6vdfngtq8lNPw4lqHbdfftQK93-6iNV8nHIjWVHuU9Ly7jWPOwRNq5_kuvxMS-RyFsh_CNEXipDWX6b-LA)/cloud/3/xak2neu/s/live-480.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
-        "type": "HLS",
-        "drm_license_uri": "",
+        "name": "UNICANAL SD",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Uqht91tjRbyn_Qiic8NzSpQl2ZPdve_u_5pGfnwGzwQqQnIojBRRzDdtgcLCzwKJE5MBFiVdhp7Ux52-HqAWjJ1Ktmu8d1zNVG6Y1WfLkx55W2SmgFIDxUruu7HK7-OBB192_NLun3NQWfJ_wozvYw)/cloud/3/xak2lou/s/live-480.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
