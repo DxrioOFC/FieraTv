@@ -3,13 +3,6 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "EVENTOS PY",
-        "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "UNICANAL SD",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Uqht91tjRbyn_Qiic8NzSpQl2ZPdve_u_5pGfnwGzwQqQnIojBRRzDdtgcLCzwKJE5MBFiVdhp7Ux52-HqAWjJ1Ktmu8d1zNVG6Y1WfLkx55W2SmgFIDxUruu7HK7-OBB192_NLun3NQWfJ_wozvYw)/cloud/3/xak2lou/s/live-480.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
@@ -149,6 +142,13 @@
   {
     "name": "DEPORTES PREMIUM 🏆",
     "samples": [
+      {
+        "name": "EVENTOS PY",
+        "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
       {
         "name": "FOX SPORTS",
         "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
