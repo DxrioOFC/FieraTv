@@ -3,18 +3,6 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
-        "name": "TRECE SD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(rsuBJhBkr9hjOPNa6pI9OOKaQONwblAmaJEFnKvCqmb9DU09bFti5YHEortowf-GP3Utbgcv4mJfQ-PQDq4kEnf0F2yfihx8oDW80fJhZ5Slrs4q62Fwnz27L0G3jrWnFIS1szKqF2Z5NsTFgutQDg)/cloud/3/xak2neu/s/live-480.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": ""
-        }
-      },
-      {
         "name": "UNICANAL SD",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Ljoy0NyvF1Gz5Rs8csYysO1XyVeUty46irAf3qEhzgGFoGuA36XSpj-F_uqYBFilhTLTi50KHZuvm5Brb9kjBCA4Htl9c1sCzlU_yjNvFkihid2bzuavPtN9NT6Esc3ltDoHO0o7-bUu_3mP47JjJw)/cloud/3/xak2lou/s/live-480.m3u8#cell=lcf2-eu-north-1a",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
@@ -32,6 +20,18 @@
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-GEN.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TRECE SD",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(TM0bJd1v7g0rVHAJzUW-3NCUB2Gt_u1ppPJ8URalbze-X2wodcUQlBQ8KLeX5HyvrlDpCOmR1kFoILa-Kj5clehqvxSEMZidASo78mS2L8jX84P1R-UOyTG2bMQ9qlZW4uMZQ-2v0lvSrHGJ5m4hmQ)/cloud/3/xak2neu/s/live-480.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": ""
+        }
       },
       {
         "name": "TRECE HD",
