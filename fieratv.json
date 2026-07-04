@@ -108,7 +108,15 @@
   },
   {
     "name": "MUNDIAL FIFA  INTERNET LENTO 🇵🇾 🏆",
-    "samples": []
+    "samples": [
+      {
+        "name": "GEN",
+        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "FIERA PRODUCCIONES",
@@ -321,13 +329,6 @@
         "name": "SNT",
         "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GEN",
-        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
