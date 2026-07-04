@@ -3,6 +3,18 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "UNICANAL HD",
+        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMzc0OTE0Iiwic2lwIjoiMTgxLjEyNC4xMzAuOTciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTc4MmM5NmU3ZWM1OWE3ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.kLD7w8v1VRuNPXHAkzt7Dq9_Jq5nuLyHDMClNAboBhacSiqEZ0XvznOWAsuicWZEHNXMDLj2j-oM1tsyf_oiNg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-GEN.png",
@@ -19,18 +31,6 @@
           "Origin": "https://no.gendigi.net",
           "Referer": "https://no.gendigi.net",
           "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
-        }
-      },
-      {
-        "name": "UNICANAL HD",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMzc0OTE0Iiwic2lwIjoiMTgxLjEyNC4xMzAuOTciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTc4MmM5NmU3ZWM1OWE3ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.kLD7w8v1VRuNPXHAkzt7Dq9_Jq5nuLyHDMClNAboBhacSiqEZ0XvznOWAsuicWZEHNXMDLj2j-oM1tsyf_oiNg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
