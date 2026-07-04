@@ -10,6 +10,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "PARAGUAY 🇵🇾 VS FRANCIA 🇫🇷",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(PbJMYHmGxClfPLqRQEV9xEJbkoGxAhVM_cz9VHEgUeS7ah9ztuDStspdwHN9niE0FtTDXgcohG-pJQisHPV7Bbmh5mSW-0Y-c0akY00XGcdHSOEFGuVTXBBPMoxerVm_I8MEO-0JxctJY48uKt-UDw)/cloud/3/xak2lou/s/live-480.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://imagizer.imageshack.com/img922/4750/awODHp.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN HD",
         "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://go.tigo.com.py/landing/nuevos-planes-b2b/img/Logos-canales-GEN.png",
@@ -34,13 +41,6 @@
           "Referer": "https://no.gendigi.net",
           "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
         }
-      },
-      {
-        "name": "PARAGUAY 🇵🇾 VS FRANCIA 🇫🇷",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(5osBynv0HpmcoAo-t2CdXPVod12YZHPWorYTDRMw3x20haA6hx_ZsTWQiqPZSP_cqbr8gwnZNd12FzVmbz2U5R8Tyf6kLlRqhEX47vMx5jO409JwL9lOvC1LsNKmthvAmAD8urzHuNNCbjbzOFMNpQ)/cloud/3/xak2neu/s/live-720.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://imagizer.imageshack.com/img922/4750/awODHp.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       },
       {
         "name": "UNICANAL HD",
