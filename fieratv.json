@@ -17,6 +17,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "UNICANAL 2",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(xUbAyzlbzB3wD6ZH5xXZuc5qiyUgC9hQzshUQHtwWLJyQ_sDnsazGz3UEc3EWX-VwOIkPOTWdMZxzU3beOC_DqdP441eBfvwQnEuoPsSOtzbJbY743V5A5VZzvMdJrl8xJ-P7tkKDBo2RsFupP8_hg)/cloud/3/xak2lou/s/live-720.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "VS SPORTS",
         "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
@@ -32,13 +39,6 @@
         "name": "PARAGUAY 🇵🇾 VS FRANCIA 🇫🇷",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(5osBynv0HpmcoAo-t2CdXPVod12YZHPWorYTDRMw3x20haA6hx_ZsTWQiqPZSP_cqbr8gwnZNd12FzVmbz2U5R8Tyf6kLlRqhEX47vMx5jO409JwL9lOvC1LsNKmthvAmAD8urzHuNNCbjbzOFMNpQ)/cloud/3/xak2neu/s/live-720.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://imagizer.imageshack.com/img922/4750/awODHp.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "UNICANAL /  HD 2",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(xUbAyzlbzB3wD6ZH5xXZuc5qiyUgC9hQzshUQHtwWLJyQ_sDnsazGz3UEc3EWX-VwOIkPOTWdMZxzU3beOC_DqdP441eBfvwQnEuoPsSOtzbJbY743V5A5VZzvMdJrl8xJ-P7tkKDBo2RsFupP8_hg)/cloud/3/xak2lou/s/live-720.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
