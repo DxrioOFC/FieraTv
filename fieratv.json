@@ -87,9 +87,9 @@
     "samples": [
       {
         "name": "TRECE HD",
-        "url": "http://10.140.0.22:8030.m3u8",
+        "url": "http://10.140.0.22:8030",
         "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
