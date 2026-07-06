@@ -83,44 +83,6 @@
     ]
   },
   {
-    "name": "MUNDIAL FIFA  INTERNET LENTO 🇵🇾 🏆",
-    "samples": [
-      {
-        "name": "UNIANAL HD",
-        "url": "http://10.140.0.22:9000/unicanalsrt",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "srt://190.128.209.226:4207",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": ""
-        }
-      },
-      {
-        "name": "TRECE HD",
-        "url": "http://10.140.0.22:8030",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GEN MUNDIAL",
-        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1278098268.m3u8?k=522ab41430b22a8d2f28ca40b07900a4ed37c52ef0c25ddf385c356456b8d8bc&exp=1783197604",
-        "icono": "https://imagizer.imageshack.com/img922/4750/awODHp.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GEN",
-        "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "FIERA PRODUCCIONES",
     "samples": [
       {
