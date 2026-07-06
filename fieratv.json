@@ -572,6 +572,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "VISION TV VILLARICA",
+        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+        "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DEL REY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
@@ -589,13 +596,6 @@
         "name": "COLMENAR TV",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "VISIÓN TV VILLARICA",
-        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
-        "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
