@@ -1276,7 +1276,7 @@
       {
         "name": "CASCAVEL CENTRO",
         "url": "https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist_w372808657.m3u8",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
