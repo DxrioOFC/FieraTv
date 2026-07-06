@@ -565,6 +565,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "NOVA TV",
+        "url": "https://tvdatta.com:3012/live/novalive.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/927/EIm4yH.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DEL REY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
