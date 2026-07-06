@@ -86,6 +86,13 @@
     "name": "MUNDIAL FIFA  INTERNET LENTO 🇵🇾 🏆",
     "samples": [
       {
+        "name": "TRECE HD",
+        "url": "http://10.140.0.22:8030.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN MUNDIAL",
         "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1278098268.m3u8?k=522ab41430b22a8d2f28ca40b07900a4ed37c52ef0c25ddf385c356456b8d8bc&exp=1783197604",
         "icono": "https://imagizer.imageshack.com/img922/4750/awODHp.png",
@@ -103,18 +110,6 @@
         "name": "TRECE SD",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(y9JO0vdRnRC-fxwZKCEB6BiMNrIj0WEMe4ywpZgqWGTmkMjpR_urhRIGD4M-tk1-dElInRo0SJPNURXjE7kpA8X4F_OS9KA5Ze4PDmPkIGGPSVQffjT-Mf1PONYsHzrh1OPytEl-QVNFhhGqnkuNjA)/cloud/3/xak2neu/s/live-480.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": ""
-        }
-      },
-      {
-        "name": "UNICANAL SD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(PbJMYHmGxClfPLqRQEV9xEJbkoGxAhVM_cz9VHEgUeS7ah9ztuDStspdwHN9niE0FtTDXgcohG-pJQisHPV7Bbmh5mSW-0Y-c0akY00XGcdHSOEFGuVTXBBPMoxerVm_I8MEO-0JxctJY48uKt-UDw)/cloud/3/xak2lou/s/live-480.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
         "headers": {
