@@ -1211,6 +1211,13 @@
     "name": "CAMARAS EN VIVO",
     "samples": [
       {
+        "name": "ENCARNACION LIVE",
+        "url": "https://mia.rtsp.me/DHs5yhUpAgb39bDHL6LqeA/1783272973/hls/3NsfyZGe.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GINO PARADISE - ESLOVAQUIA",
         "url": "https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist_w1699393130.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
@@ -1292,13 +1299,6 @@
         "url": "https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
         "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ENCARNACION LIVE",
-        "url": "https://mia.rtsp.me/DHs5yhUpAgb39bDHL6LqeA/1783272973/hls/3NsfyZGe.m3u8?ip=181.78.95.100",
-        "icono": "",
-        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
