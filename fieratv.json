@@ -96,7 +96,7 @@
         "name": "UNIANAL HD",
         "url": "http://10.140.0.22:9000/unicanalsrt",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
