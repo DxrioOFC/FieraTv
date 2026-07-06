@@ -86,16 +86,21 @@
     "name": "MUNDIAL FIFA  INTERNET LENTO 🇵🇾 🏆",
     "samples": [
       {
-        "name": "TRECE HD",
-        "url": "http://10.140.0.22:8030",
-        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "UNIANAL HD",
         "url": "http://10.140.0.22:9000/unicanalsrt",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "srt://190.128.209.226:4207",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": ""
+        }
+      },
+      {
+        "name": "TRECE HD",
+        "url": "http://10.140.0.22:8030",
+        "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
