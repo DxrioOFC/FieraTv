@@ -1295,13 +1295,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "MURO DE LOS LAMENTOS",
-        "url": "https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/23595/Live_Kotel3_12SP/chunks.m3u8?nimblesessionid=19573812",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ENCARNACION LIVE",
         "url": "https://mia.rtsp.me/DHs5yhUpAgb39bDHL6LqeA/1783272973/hls/3NsfyZGe.m3u8?ip=181.78.95.100",
         "icono": "",
