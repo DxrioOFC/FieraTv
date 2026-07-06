@@ -1241,7 +1241,7 @@
       {
         "name": "PUERTO MIAMI",
         "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.yeikdg8.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt2849.rc0.edge.basic.stream/chunklist_w367171891.m3u8",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
