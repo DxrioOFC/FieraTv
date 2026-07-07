@@ -750,6 +750,13 @@
         "icono": "https://www.alcance.com.py/_next/static/media/alcance-tv-logo.dc44471b.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CARITAS TV",
+        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/chunklist_w1549871589.m3u8",
+        "icono": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
