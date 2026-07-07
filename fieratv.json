@@ -1033,6 +1033,13 @@
         "icono": "https://static.wikia.nocookie.net/logopedia/images/f/fe/13C_HD_sin_fondo.png/revision/latest?cb=20191219210024&path-prefix=es",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "UCV CHILE",
+        "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?nimblesessionid=303660190",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_myRAs_FhQqojNDXNkYstoEv9SdGkaT0DJUgoOPHSCf=s900-c-k-c0x00ffffff-no-rj",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
