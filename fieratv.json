@@ -1026,6 +1026,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SP2-JjALJTS_qTH5Pbk_cdK9cGDCLKtwWIvV-4oVJQ&s=10",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "13 C CHILE",
+        "url": "https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/80eb0280-6531-4c24-ad68-a3196f671ae0:CBF2/variant/65728ae2b0f4bd85de84d63c8cfda3b4/bandwidth/1662117.m3u8",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/f/fe/13C_HD_sin_fondo.png/revision/latest?cb=20191219210024&path-prefix=es",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
