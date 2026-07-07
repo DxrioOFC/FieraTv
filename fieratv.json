@@ -1040,6 +1040,13 @@
         "icono": "https://yt3.googleusercontent.com/ytc/AIdro_myRAs_FhQqojNDXNkYstoEv9SdGkaT0DJUgoOPHSCf=s900-c-k-c0x00ffffff-no-rj",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Wapp TV",
+        "url": "https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
