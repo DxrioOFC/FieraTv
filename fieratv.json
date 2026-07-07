@@ -736,6 +736,13 @@
         "icono": "https://imagizer.imageshack.com/img923/73/GvYXuq.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ALCANCE TV",
+        "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+        "icono": "https://www.alcance.com.py/_next/static/media/alcance-tv-logo.dc44471b.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
