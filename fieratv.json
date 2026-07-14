@@ -3,6 +3,18 @@
     "name": "MUNDIAL FIFA WORLD CUP 2026 🏆 ⚽",
     "samples": [
       {
+        "name": "DIRECT 1",
+        "url": "https://1313-aws-da-mt.vrioott.com/1313_DIRECTV_SPORTS_URU_WC_DASH/manifest.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "http://api.argentinatv.live/verimatrixkbx/893681852491721d8e4c0f1fadfd0cde.json",
+        "headers": {
+          "Origin": "android_mobile.directvgo.com",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "UNICANAL HD",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MjI0NzIyIiwic2lwIjoiMTgxLjEyNC4xMjkuNDciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDUwYmQ5ZWUyNTNkYmQ5ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.78D2HB_EwH4epebhx1q_YBj9lHSZqhpP8wzGe10IAGxDI2Qx3XxCmU9MRfBAmPEaExOCy3Jusr5gcdOEtgGkzg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
