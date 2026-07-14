@@ -131,6 +131,13 @@
     "name": "DEPORTES PREMIUM 🏆",
     "samples": [
       {
+        "name": "EVENTOS HD 1",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN1/transmux/index.mpd",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS PY",
         "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
