@@ -3411,6 +3411,18 @@
     "name": "CANALES RELIGIOSOS",
     "samples": [
       {
+        "name": "EWTN",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
+        "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:B988SGUqQxq3edEz8IW3mQ,k:7i--7B7N_6Vhc4P2hN_aDg",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"           },"
+        }
+      },
+      {
         "name": "CANAL LUZ",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
