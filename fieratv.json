@@ -3409,6 +3409,18 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CANAL ORBE 21",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
+        "icono": "https://i.postimg.cc/9FQ2PBGZ/Logo_1.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:Kcyum5jXTnazWsTpp_0a8Q,k:zW8NTcoPwwUz6EX8jqapRQ",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
