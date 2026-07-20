@@ -1738,13 +1738,6 @@
         }
       },
       {
-        "name": "TUDN USA",
-        "url": "http://185.56.109.251/Tudn/playlist.m3u8",
-        "icono": "https://i.ibb.co/PYrGvPt/tudn.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "WIN SPORTS+",
         "url": "http://190.60.37.118:4000/play/a0bw",
         "type": "HLS",
@@ -1788,6 +1781,13 @@
         "name": "DAZN COMBAT",
         "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
         "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TUDN USA",
+        "url": "http://185.56.109.251/Tudn/playlist.m3u8",
+        "icono": "https://i.ibb.co/PYrGvPt/tudn.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
