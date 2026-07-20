@@ -3191,7 +3191,7 @@
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
         "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/170.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:YMs4oFiAzQ60KfcTmGCVQA,k:wlGqx5Q8DRMkqppBKfOv1A",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
