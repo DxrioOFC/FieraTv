@@ -3163,18 +3163,6 @@
     "name": "CLUB TELEMUNDO",
     "samples": [
       {
-        "name": "TELEMUNDO",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093073070.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "kid:U9dS5GSdrdgI2ROYX4budw,k:0f0k2xth1jTKv8RFOM6bDg",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TELEMUNDO NOTICIAS",
         "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
