@@ -1009,13 +1009,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "13 C CHILE",
-        "url": "https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/80eb0280-6531-4c24-ad68-a3196f671ae0:CBF2/variant/65728ae2b0f4bd85de84d63c8cfda3b4/bandwidth/1662117.m3u8",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/f/fe/13C_HD_sin_fondo.png/revision/latest?cb=20191219210024&path-prefix=es",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "Wapp TV",
         "url": "https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8",
         "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
