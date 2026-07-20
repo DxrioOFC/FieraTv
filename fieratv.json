@@ -41,6 +41,13 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": ""
         }
+      },
+      {
+        "name": "SPORTV",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+        "icono": "https://i.ibb.co/RGnzxYv8/sportv.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:UcDvI7Fyl-XAHNfzbdCmzg,k:iCP3E7pv25u-CirYLTCaSw"
       }
     ]
   },
