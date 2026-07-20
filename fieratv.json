@@ -3119,18 +3119,6 @@
         "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
       },
       {
-        "name": "tLNovelas HD",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
-        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/170.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "NOVELAS TV",
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png",
