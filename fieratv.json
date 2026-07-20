@@ -3163,18 +3163,6 @@
         }
       },
       {
-        "name": "TNT NOVELAS",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-novelas_ef3dd51ad12e4663aa99802657a5417f.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "kid:SaAXmwNK6JnLZ9ilg0GBqg,k:SG4sbWmt6n4X8pYOjjZmEg",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TODO NOVELAS",
         "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
