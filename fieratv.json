@@ -3428,6 +3428,13 @@
         "icono": "https://cablego.com.pe/cache/logos/ENLACE.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SANTA MARIA",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd",
+        "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
