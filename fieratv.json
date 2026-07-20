@@ -3397,7 +3397,20 @@
   },
   {
     "name": "CANALES RELIGIOSOS",
-    "samples": []
+    "samples": [
+      {
+        "name": "CANAL LUZ",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:91I-paLaeMRl2Si-HYHipQ,k:hwrWnpir1StEO9jwIEs7xA",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      }
+    ]
   },
   {
     "name": "CANALES DE MÚSICA 🎶",
