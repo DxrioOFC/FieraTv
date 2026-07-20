@@ -1688,6 +1688,13 @@
     "name": "⚽ DEPORTES VARIADOS",
     "samples": [
       {
+        "name": "BEIN SPORTS  Ñ",
+        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
+        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
+        "type": "HLS",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+      },
+      {
         "name": "LA LIGA HYPERMOTION 3",
         "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
@@ -1722,13 +1729,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "BEIN SPORTS  Ñ",
-        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
-        "type": "HLS",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
       },
       {
         "name": "BEIN SPORTS EXTRA Ñ OPC 2",
