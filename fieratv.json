@@ -1688,13 +1688,6 @@
     "name": "⚽ DEPORTES VARIADOS",
     "samples": [
       {
-        "name": "DAZN COMBAT",
-        "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
-        "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "LA LIGA HYPERMOTION 3",
         "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
@@ -1818,6 +1811,13 @@
         "name": "WIN SPORTS +",
         "url": "http://190.60.37.118:4000/play/a0bw",
         "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "DAZN COMBAT",
+        "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
+        "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
