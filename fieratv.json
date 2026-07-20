@@ -1784,18 +1784,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "TELEMUNDO",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0a650504ba2f3f849c290b66a425f2d9&key=f9809d1b37c6eded90b4f5fbcc7eda26",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "WIN SPORTS +",
         "url": "http://190.60.37.118:4000/play/a0bw",
         "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
