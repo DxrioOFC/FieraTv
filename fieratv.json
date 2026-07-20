@@ -3370,7 +3370,7 @@
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd",
         "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:1Fb7o_zLTAag9Hdv5BJACw,k:ylUw_-QqOHWdOIfILWqQmg",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
