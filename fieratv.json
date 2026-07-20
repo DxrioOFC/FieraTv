@@ -800,11 +800,11 @@
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
         "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/29.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:0hRUfX2aQBGjmomc5ucAcQ,k:FsLtBhfPHhI_OvbqiHWoLQ",
+        "drm_license_uri": "\"kid:0hRUfX2aQBGjmomc5ucAcQ,k:FsLtBhfPHhI_OvbqiHWoLQ\",",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\""
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
       },
       {
