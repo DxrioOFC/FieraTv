@@ -3327,7 +3327,7 @@
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
         "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:B988SGUqQxq3edEz8IW3mQ,k:7i--7B7N_6Vhc4P2hN_aDg",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
