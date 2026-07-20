@@ -3433,8 +3433,13 @@
         "name": "SANTA MARIA",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd",
         "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:1Fb7o_zLTAag9Hdv5BJACw,k:ylUw_-QqOHWdOIfILWqQmg",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
