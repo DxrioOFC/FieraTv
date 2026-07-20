@@ -2845,7 +2845,7 @@
         "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
         "icono": "https://www.channelcanada.com/wp-content/uploads/2025/01/Love-Nature.jpg",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://kid:6mQ3CE9sBVx8hW-GNh6G-g,k:l5HA5vcrSl6s-L3fpSkCCQ",
+        "drm_license_uri": "kid:6mQ3CE9sBVx8hW-GNh6G-g,k:l5HA5vcrSl6s-L3fpSkCCQ",
         "headers": {
           "Origin": "https://webclient.axsbolivia.com",
           "Referer": "https://webclient.axsbolivia.com/",
