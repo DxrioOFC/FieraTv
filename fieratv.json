@@ -48,13 +48,6 @@
         "icono": "https://i.ibb.co/RGnzxYv8/sportv.png",
         "type": "CLEARKEY",
         "drm_license_uri": "kid:UcDvI7Fyl-XAHNfzbdCmzg,k:iCP3E7pv25u-CirYLTCaSw"
-      },
-      {
-        "name": "TOP BARCA",
-        "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
-        "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
@@ -1863,6 +1856,13 @@
         "name": "KICKBOXING",
         "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TOP BARCA",
+        "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
+        "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
         "type": "HLS",
         "drm_license_uri": ""
       }
