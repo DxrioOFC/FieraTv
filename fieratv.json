@@ -48,6 +48,13 @@
         "icono": "https://i.ibb.co/RGnzxYv8/sportv.png",
         "type": "CLEARKEY",
         "drm_license_uri": "kid:UcDvI7Fyl-XAHNfzbdCmzg,k:iCP3E7pv25u-CirYLTCaSw"
+      },
+      {
+        "name": "TOP BARCA",
+        "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
+        "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
