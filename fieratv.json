@@ -1797,6 +1797,13 @@
         "icono": "https://app.femon.net/tv/banners/697928e248d135.77252478.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BEIN SPORTS 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "icono": "https://app.femon.net/tv/banners/69b833696b1766.71860602.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=335DAD778109954503DCBB21DC92015F&key=24bfd75d436cbf73168a2a2dccd40281"
       }
     ]
   },
