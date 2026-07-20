@@ -3351,7 +3351,7 @@
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
         "icono": "https://i.postimg.cc/9FQ2PBGZ/Logo_1.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:Kcyum5jXTnazWsTpp_0a8Q,k:zW8NTcoPwwUz6EX8jqapRQ",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
