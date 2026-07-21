@@ -41,6 +41,13 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": ""
         }
+      },
+      {
+        "name": "PRUEBA TIGO",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a1cbca79a/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
