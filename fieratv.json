@@ -47,12 +47,7 @@
         "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": ""
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "PRUEBA TIGO",
