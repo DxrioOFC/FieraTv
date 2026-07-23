@@ -1155,10 +1155,11 @@
         }
       },
       {
-        "name": "AR|12",
+        "name": "AR 12",
         "url": "http://190.7.19.197:232/play/a00o/index.m3u8",
+        "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png"
+        "drm_license_uri": ""
       }
     ]
   },
