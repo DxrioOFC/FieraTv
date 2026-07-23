@@ -320,6 +320,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "GEN HD",
+        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://no.gendigi.net",
+          "Referer": "https://no.gendigi.net",
+          "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
+        }
+      },
+      {
         "name": "HEI",
         "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
@@ -479,18 +491,6 @@
         "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "VS SPORTS",
-        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://no.gendigi.net",
-          "Referer": "https://no.gendigi.net",
-          "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
-        }
       },
       {
         "name": "AMERICA TV",
