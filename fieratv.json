@@ -1,7 +1,15 @@
 [
   {
     "name": "CANAL DE EVENTOS PARAGUAY HD",
-    "samples": []
+    "samples": [
+      {
+        "name": "EVENTOS 1",
+        "url": "https://videostream.shockmedia.com.ar:443/hls/yatytaytv1/yatytaytv1.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "EVENTOS PY HD",
