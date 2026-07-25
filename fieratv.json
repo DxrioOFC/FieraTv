@@ -43,6 +43,13 @@
     "name": "EVENTOS PY HD",
     "samples": [
       {
+        "name": "EVENTOS PRUEBA",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a1cbca79a/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "VS SPORTS",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1MTUyMTI4Iiwic2lwIjoiMTgxLjEyNC4xMzQuOTIiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjc2ZjNjOGY4NTBiZDFhNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oRm_VnAuFdRuQGQeE9HjSc36XLiv4OjjwxFetYeUNulLjz2qzS0BYvGCM06ouaPfOp665bvRYEs9sg9JXrn7NA==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
@@ -87,13 +94,6 @@
         "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "PRUEBA TIGO",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a1cbca79a/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
