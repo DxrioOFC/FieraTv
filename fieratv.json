@@ -17,13 +17,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS 5",
-        "url": "http://185.194.204.72:8260/live/LUMIX1/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS 3",
         "url": "https://lbgo.bozztv.com:443/ssh101/ssh101/events1py/chunks.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -35,6 +28,13 @@
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a62568fb4/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS 5",
+        "url": "http://185.194.204.72:8260/live/LUMIX1/index.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
