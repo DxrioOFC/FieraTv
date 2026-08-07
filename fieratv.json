@@ -274,7 +274,7 @@
     "samples": [
       {
         "name": "ÑANDUTI TV",
-        "url": "https://nanduti.b-cdn.net/480p.m3u8",
+        "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
         "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
         "type": "HLS",
         "drm_license_uri": ""
