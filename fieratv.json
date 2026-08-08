@@ -1788,18 +1788,6 @@
     "name": "DEPORTES MEXICO🇲🇽⚽",
     "samples": [
       {
-        "name": "ESPN 4 MEXICO",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
-        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a1b8099b64726abc7723e17829b43a55&key=908a93fe41acf07538c88c1b30277656",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TUDN MEXICO",
         "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd",
         "icono": "http://xplatinmedia.com:8080/images/aee75b75c47968e983717d7345e1d91c.png",
