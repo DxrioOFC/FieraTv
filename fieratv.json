@@ -1860,18 +1860,6 @@
         "icono": "https://i.postimg.cc/52KgLnbr/images-(2).png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "SKY SPORT EVENTOS 2",
-        "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
-        "icono": "https://i.postimg.cc/90h8wFZY/1775011695796.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=1d220987b13a594b144d1bbb6bedd568&key=b1778e4c2200a3a885957500b13f5335",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
