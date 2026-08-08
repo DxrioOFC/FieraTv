@@ -3188,9 +3188,9 @@
     "samples": [
       {
         "name": "EWTN",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
+        "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
         "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
