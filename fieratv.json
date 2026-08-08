@@ -3212,9 +3212,9 @@
       },
       {
         "name": "CANAL ORBE 21",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
+        "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
         "icono": "https://i.postimg.cc/9FQ2PBGZ/Logo_1.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
