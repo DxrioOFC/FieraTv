@@ -3200,9 +3200,9 @@
       },
       {
         "name": "CANAL LUZ",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
+        "url": "https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "kid:91I-paLaeMRl2Si-HYHipQ,k:hwrWnpir1StEO9jwIEs7xA",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
