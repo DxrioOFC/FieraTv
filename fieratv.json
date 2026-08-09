@@ -71,13 +71,6 @@
         }
       },
       {
-        "name": "EVENTOS 1",
-        "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN5.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS 3",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CH2/transmux/index.mpd",
         "icono": "",
@@ -89,6 +82,13 @@
   {
     "name": "EVENTOS DEPORTIVOS",
     "samples": [
+      {
+        "name": "EVENTOS 1",
+        "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN5.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
       {
         "name": "EVENTOS 2",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN1/transmux/index.mpd",
