@@ -17,6 +17,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "EVENTOS 3",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CH2/transmux/index.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS HD 3",
         "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN2.mpd",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -69,13 +76,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "EVENTOS 3",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CH2/transmux/index.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
