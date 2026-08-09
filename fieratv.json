@@ -3,6 +3,18 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
+        "name": "tLNovelas",
+        "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDQ5NDc5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlbm92ZWxhcy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzMyYTdkZTk2NzQxN2VkZiIsInNlc3Npb25faWQiOiI5YTcwOTdkOTY2ODM4ZmU4YmRmNjgyMjkyNTYxMGY4Yy0xNzg2Mjc2Njc5LTI5OSIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlA6MTQ0NDk5NTAiLCJkZXZpY2VfaWQiOiI5YTcwOTdkOTY2ODM4ZmU4YmRmNjgyMjkyNTYxMGY4YyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.8Cxiah4g14s9s8jE4yryYPEEosKaN8lYONhVqR_Zb1svKcK8VtJpTGsQAUhSmAkvptZ2eYYhfIV4lbKrUlzMXQ==/live/c4eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
+        "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t1.6435-9/46503618_2188148461203973_5725392500231766016_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kqj0LBQDpNkQ7kNvwHvpuoF&_nc_oc=AdquA4_kBG264VgHln6J9vkBUE1cuOQACK31MyOwnkM-8sf17mazEsdCTRmO8kBLpLI&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=PrrIBJE1haKLIdI1c0pMVQ&_nc_ss=7b289&oh=00_AQALPXyZSJrXBX9TooS9xmhBbwVJWkItCtHEMryrVdnbmg&oe=6A860E15",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
         "name": "EVENTOS  FULL",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -1339,18 +1351,6 @@
   {
     "name": "⚽EVENTOS FLOW ⚽",
     "samples": [
-      {
-        "name": "tLNovelas",
-        "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDQ5NDc5Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlbm92ZWxhcy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzMyYTdkZTk2NzQxN2VkZiIsInNlc3Npb25faWQiOiI5YTcwOTdkOTY2ODM4ZmU4YmRmNjgyMjkyNTYxMGY4Yy0xNzg2Mjc2Njc5LTI5OSIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlA6MTQ0NDk5NTAiLCJkZXZpY2VfaWQiOiI5YTcwOTdkOTY2ODM4ZmU4YmRmNjgyMjkyNTYxMGY4YyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.8Cxiah4g14s9s8jE4yryYPEEosKaN8lYONhVqR_Zb1svKcK8VtJpTGsQAUhSmAkvptZ2eYYhfIV4lbKrUlzMXQ==/live/c4eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
-        "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t1.6435-9/46503618_2188148461203973_5725392500231766016_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kqj0LBQDpNkQ7kNvwHvpuoF&_nc_oc=AdquA4_kBG264VgHln6J9vkBUE1cuOQACK31MyOwnkM-8sf17mazEsdCTRmO8kBLpLI&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=PrrIBJE1haKLIdI1c0pMVQ&_nc_ss=7b289&oh=00_AQALPXyZSJrXBX9TooS9xmhBbwVJWkItCtHEMryrVdnbmg&oe=6A860E15",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
-        }
-      },
       {
         "name": "EVENTOS FLOW 1",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDQ0MjUwIiwic2lwIjoiMTgxLjEyNC4xMzAuNDciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGY3OGI0ZjU5MTcwZWUyMCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.sCYVEi3zyen9SMM9LbgvAgNVPJLw7zRYZMfczs_fIWmYxumZpSVPqKJL4sCqZJzt1MmtCEnd-quMZbmWaqVIKg==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
