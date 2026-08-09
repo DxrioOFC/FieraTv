@@ -62,6 +62,13 @@
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS PRUEBA 4",
+        "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN4.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
