@@ -81,7 +81,15 @@
   },
   {
     "name": "EVENTOS DEPORTIVOS",
-    "samples": []
+    "samples": [
+      {
+        "name": "EVENTOS 2",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN1/transmux/index.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "FIERA PRODUCCIONES",
