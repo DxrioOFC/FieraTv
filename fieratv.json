@@ -69,6 +69,18 @@
     "name": "DEPORTES ESPN 🇦🇷 FOX SPORTS",
     "samples": [
       {
+        "name": "ESPN 4",
+        "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NjEyNDIzIiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZWQ5ODVkNDdiOTAwNWViIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.yejC4_drYq786n0iN2ks8SqMr8JeVBEVeAzzEScjxR-RXn1Ofk8-oyW7VSwEp5zNXBvzWKMdPUcdfwzcbObkeQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "ESPN 3",
         "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NjEyNDIzIiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZWQ5ODVkNDdiOTAwNWViIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.yejC4_drYq786n0iN2ks8SqMr8JeVBEVeAzzEScjxR-RXn1Ofk8-oyW7VSwEp5zNXBvzWKMdPUcdfwzcbObkeQ==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
@@ -1633,20 +1645,7 @@
   },
   {
     "name": "DEPORTES ESPN 🇦🇷 FOX SPORTS",
-    "samples": [
-      {
-        "name": "ESPN 4",
-        "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NjEyNDIzIiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZWQ5ODVkNDdiOTAwNWViIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.yejC4_drYq786n0iN2ks8SqMr8JeVBEVeAzzEScjxR-RXn1Ofk8-oyW7VSwEp5zNXBvzWKMdPUcdfwzcbObkeQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
-    ]
+    "samples": []
   },
   {
     "name": "⚽ DEPORTES VARIOS⚽",
