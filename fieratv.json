@@ -314,16 +314,16 @@
         }
       },
       {
-        "name": "FIERA HD",
-        "url": "https://fieratvhd.com/hls/fieratv.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+        "name": "FIERA TV 2",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
       {
-        "name": "FIERA TV 2",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+        "name": "FIERA HD",
+        "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
