@@ -2567,10 +2567,10 @@
     "samples": [
       {
         "name": "HBO 1",
-        "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
+        "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/default.mpd",
+        "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1",
-        "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
